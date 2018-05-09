@@ -1,0 +1,22 @@
+<--!Sub heading-->
+Learn how DC initiatives are creating data to be more effective and efficient for everyone.
+
+<br>
+<div class="col-xs-12">
+<div class="calcite-web">
+<div class="card-base card-wide">
+  <div class="card-wide-image-wrap">
+    <img alt="Recorded Lands & Taxation" class="card-wide-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/435a4a2d6a1a425b91d7d2813b7d6b6a/data">
+    <div class="card-image-caption">
+      Recorded Lands & Taxation
+    </div>
+  </div>
+  <div class="card-content">
+    <h4><a href="http://opendata.dc.gov/pages/lots-in-dc">Property Lots in DC</a></h4>
+    <p>The District's Vector Property Mapping (VPM) project works daily to capture lot transactions so that city planners, business development leaders and residents stay current. Research how DC lot data is organized and key points on their relationships.</p>
+<span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span>    
+<h6>A complex urban environment.</h6>
+  </div>
+</div>
+</div>
+</div>
