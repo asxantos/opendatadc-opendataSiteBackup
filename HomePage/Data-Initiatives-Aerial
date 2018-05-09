@@ -1,0 +1,21 @@
+<!-- Sub heading-->
+Learn how DC initiatives are creating data to be more effective and efficient for everyone.
+
+<div class="col-xs-12">
+<div class="calcite-web">
+<div class="card-base card-wide">
+  <div class="card-wide-image-wrap">
+    <img alt="Bridge Club, 1954" class="card-wide-image" src="https://dcgis.maps.arcgis.com/sharing/rest/content/items/8fa6b395c0b64558854d50970adcc84b/data">
+    <div class="card-image-caption">
+      High Resolution at 3 inches
+    </div>
+  </div>
+  <div class="card-content">
+    <h4><a href="http://opendata.dc.gov/pages/dc-from-above">Aerial Imagery & LiDAR</a></h4>
+    <p>DC collects Orthophotography and now LiDAR data on a regular basis. These aerial images have a variety of uses including web based visualizations and to create derivative data such as buildings, roads and elevation models.</p>
+<span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span>    
+    <h6><a href="http://dcgis.maps.arcgis.com/home/webmap/viewer.html?webmap=585adad93b2d48fab94003310df08400">Preview</a> and <a href="http://opendata.dc.gov/datasets?q=2017%20ortho">download</a> the latest 2017 capture.</h6>
+  </div>
+</div>
+</div>
+</div>
