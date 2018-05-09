@@ -1,0 +1,64 @@
+<h1 class="text-center">Browse Data by Theme</h1>
+<h5 class="text-center">Everything you find here is open by default per <a href="https://octo.dc.gov/page/district-columbia-data-policy">DC’s Data Policy</a>.</h5>
+<br>
+<div class="col-xs-12">
+    <div class="col-sm-3"></div>
+    <div class="col-xs-12 col-sm-3">
+        <ul>
+<li><a target="_self" href="http://opendata.dc.gov/datasets?q=may2018" style="color:black">Newly Added or Updated</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=political" style="color:black">Administrative
+                Boundaries</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=imagery" style="color:black">Aerial
+                Imagery
+                and LiDAR</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=economic" style="color:black">Business
+                &
+                Economic Development</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=cultural" style="color:black">Cultural
+                &
+                Society</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=demographic"
+                   style="color:black">Demographics</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=education"
+                   style="color:black">Education</a>
+            </li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=environment"
+                   style="color:black">Environment</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=structure" style="color:black">Facility
+                and
+                Structure</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=financials"
+                   style="color:black">Financials & Procurement</a></li>
+        </ul>
+
+    </div>
+    <div class="col-xs-12 col-sm-3">
+        <ul>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=govoperations" style="color:black">Government Operations</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=health" style="color:black">Health
+                &
+                Human
+                Services</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=performance"
+                   style="color:black">Performance Metrics</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=planning" style="color:black">Planning,
+                Landuse & Zoning</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=property" style="color:black">Property
+                & Land</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=public%20safety"
+                   style="color:black">Public
+                Safety</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=public%20service"
+                   style="color:black">Public
+                Service</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=recreation"
+                   style="color:black">Recreation</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=transportation"
+                   style="color:black">Transportation</a>
+            </li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=utility" style="color:black">Utility
+                &
+                Communication</a></li>
+        </ul>
+    </div>
+</div>
