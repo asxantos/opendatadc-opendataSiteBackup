@@ -1,0 +1,21 @@
+<!--Sub heading-->
+Learn how DC initiatives are creating data to be more effective and efficient for everyone.
+
+<div class="col-xs-12">
+<div class="calcite-web">
+<div class="card-base card-wide">
+  <div class="card-wide-image-wrap">
+    <img alt="Cataloging Enterprise Datasets" class="card-wide-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/861aa4b993984558946f6de8993db77b/data">
+    <div class="card-image-caption">
+      Cataloging Enterprise Datasets
+    </div>
+  </div>
+  <div class="card-content">
+    <h4><a href="http://opendata.dc.gov/pages/cdo-annual-report">Chief Data Officer's Annual Report</a></h4>
+    <p>A evaluation of the previous fiscal year's progress in implementing the <a href="https://octo.dc.gov/node/1239971">Data Policy</a> and publication of the <a href="http://opendata.dc.gov/datasets/enterprise-dataset-inventory">Enterprise Dataset Inventory</a>. 79 agencies recorded 1,640 enterprise datasets - nearly 80% of 99 agencies asked to participate. <a href="http://dcgis.maps.arcgis.com/sharing/rest/content/items/be96b0d937e44f258cc7eb62ca28f30f/data">Read full report</a>.</p>
+<span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span>    
+<h6>Publicly acknowledging District datasets.</h6>
+  </div>
+</div>
+</div>
+</div>
