@@ -1,0 +1,84 @@
+<!--This is the code used for Published Apps and Data Uncovered row. Created May 9, 2018-->
+
+<h1 class="text-center">Published Apps and Data Uncovered</h1>
+<h5 class="text-center">Jump into these government apps and dig up the data behind them.</h5>
+<br>
+<ul class="cards-list">
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+            <div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="Residential, Person Property" class="card-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/99fe4e81750c460db4868c59feb8aa29/data">
+      <div class="card-image-caption">
+        Residential, Personal Property
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a href="http://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=3ca919beca684ea7bd7d1ced0dbbf636" target="_blank">DC Real Property</a></h4>
+      <p>Identify ownership, personal property, assessments and parcels.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-default" href="http://opendata.dc.gov/datasets?q=real%20property">Data</a><a class="btn btn-primary" href="http://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=3ca919beca684ea7bd7d1ced0dbbf636" target="_blank" style="color:white">View</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+            <div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="National Law Enforcement Memorial" class="card-image" src="https://dcgis.maps.arcgis.com/sharing/rest/content/items/b1af570293df4cd2b90a16b6bbb4bf45/data">
+      <div class="card-image-caption">
+        National Law Enforcement Memorial
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a href="http://crimecards.dc.gov" target="_blank">Crime Cards</a></h4>
+      <p>Analyze crime trends with data throughout in all 8 Wards.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-default" href="http://opendata.dc.gov/datasets?q=crime">Data</a><a class="btn btn-primary" href="http://crimecards.dc.gov" target="_blank" style="color:white">View</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+            <div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="Graffiti Removal" class="card-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/393b81b31fc24ec7b9ce118a064425c9/data">
+      <div class="card-image-caption">
+        Graffiti Removal Service
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a href="http://311.map.dc.gov" target="_blank">Service Requests</a></h4>
+      <p>See 311 service requests submitted by citizens in the last 30 days.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-default" href="http://opendata.dc.gov/datasets?q=service%20requests">Data</a><a class="btn btn-primary" href="http://311.map.dc.gov" 
+target="_blank" style="color:white">View</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="Wilson Building, DC" class="card-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/2f21fac13e54451dbaf320b990c62c2d/data">
+      <div class="card-image-caption">
+        John A. Wilson Building, DC
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a href="http://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=31cb84a467df4fa4a1515cd2134a0eb3" target="_blank">District Gov Property</a></h4>
+      <p>Research properties owned, operated, and or managed by DC.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-default" href="http://opendata.dc.gov/datasets/district-government-land-owned-operated-and-or-managed">Data</a><a class="btn btn-primary" href="http://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=31cb84a467df4fa4a1515cd2134a0eb3" target="_blank" style="color:white">View</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
