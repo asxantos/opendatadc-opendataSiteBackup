@@ -1,0 +1,21 @@
+<!--Sub Heading-->
+Learn how DC initiatives are creating data to be more effective and efficient for everyone.
+
+<div class="col-xs-12">
+<div class="calcite-web">
+<div class="card-base card-wide">
+  <div class="card-wide-image-wrap">
+    <img alt="Bridge Club, 1954" class="card-wide-image" src="https://dcgis.maps.arcgis.com/sharing/rest/content/items/43181cd21f0b4f4aaf0cba71f1f84487/data">
+    <div class="card-image-caption">
+      Complete Standardization
+    </div>
+  </div>
+  <div class="card-content">
+    <h4><a href="http://opendata.dc.gov/pages/addressing-in-dc">Addressing in DC</a></h4>
+    <p>DC implements intelligent search functionality for finding and verifying addresses, place names, blocks and intersections. It provides standardization of addressing components so that agency apps and systems maintain clean integration.</p>
+<span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span>    
+<h6>It's more than just address points.</h6>
+  </div>
+</div>
+</div>
+</div>
