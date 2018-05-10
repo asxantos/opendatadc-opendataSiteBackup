@@ -1,0 +1,77 @@
+<!--This is used in the Highlighted Data Sets row, created on May 10, 2018-->
+
+<div>
+<h1 class="text-center">Highlighted Data Sets</h1>
+<br><br>
+<div class="row-fluid">
+    <ul class="cards-list">
+        <li class="col-sm-2 col-xs-12">
+            <center>
+<a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets?q=2018live"> <img
+                    src="https://dcgis.maps.arcgis.com/sharing/rest/content/items/cd5a11638f464ccdb9e482461231ef74/data">
+                    </a>
+
+<a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets?q=2018live"
+                       >
+    <p>2018 Live <br>Data Feeds</p></a>
+            </center>
+        </li>
+        <li class="col-sm-2 col-xs-12">
+            <center>
+                    <a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets/crime-incidents-in-2018"
+                       >
+                <img
+                    src="http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Data-Highlights-Police-2.png">
+                    </a>
+                    <a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets/crime-incidents-in-2018"
+                    >                <p>Crime Incidents <br>in 2018</p></a>
+            </center>
+        </li>
+        <li class="col-sm-2 col-xs-12">
+            <center>
+                <a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets?q=web%20analytics">
+                <img
+                    src="https://dcgis.maps.arcgis.com/sharing/rest/content/items/b2fda862e9d24fe6b9084bd5d9fa4af5/data">
+
+</a>
+                <a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets?q=web%20analytics">
+                    <p>DC.gov Web<br>Analytics</p></a>
+            </center>
+        </li>
+        <li class="col-sm-2 col-xs-12">
+            <center>
+                                <a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets?q=pipeline"
+                       >
+                <img
+                    src="https://octo.dc.gov/sites/default/files/dc/sites/octo/Open-Data-Highlights-CheckBox.png">
+                                </a>
+                                    <a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets?q=pipeline"
+                                    ><p>IT Pipeline <br>Contracts</p></a>
+            </center>
+        </li>
+                <li class="col-sm-2 col-xs-12">
+            <center>
+                    <a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets/enterprise-dataset-inventory">
+                <img
+                    src="https://dcgis.maps.arcgis.com/sharing/rest/content/items/f015ecb2b39b4a46ad2879020da980ee/data">
+                    </a>
+                <a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets/enterprise-dataset-inventory"
+                       >
+                    <p>Enterprise<br>Dataset Inventory</p>
+                </a>
+            </center>
+        </li>
+<li class="col-sm-2 col-xs-12">
+            <center>
+                                    <a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets/zoning-development-standards">
+                <img
+                    src="http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Data-Highlights-Historic-Building.png">
+                                    </a>
+                                 <a style="color:#f0f0f0" href="http://opendata.dc.gov/datasets/zoning-development-standards"
+                                 ><p>Zoning Development Standards</p></a>
+            </center>
+        </li>
+    </ul>
+</div>
+<br><br><br><br>
+</div>
