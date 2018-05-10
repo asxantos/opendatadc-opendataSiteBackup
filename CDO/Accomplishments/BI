@@ -1,0 +1,14 @@
+<!--Row for Establishing Enterprise Standards for Business Intelligence.-->
+
+<div class="text-left" style="background: rgba(50,50,50,0.4); width: 80%; height:50px; box-shadow:1px 1px 10px black; color:white; font-size:20px; line-height:28px">
+<b style="padding-left:10px">Establishing Enterprise Standards for Business Intelligence</b></div>
+<br>
+<p class="text-left">MicroStrategy and Tableau are now established as the enterprise standards for business intelligence tools in the District government and completed major upgrades to those systems. 
+<br>
+<br>
+Progress includes,
+<li>quadrupling the District’s server side capacity to use the Tableau data visualization platform.</li>
+<li>creating a free Tableau class for District employees.</li>
+<li>reworking our MicroStrategy development environment so that it fully matches our production environment.</li>
+<li>publishing a library of best practices and end user support documents for the MicroStrategy Environment.</li>
+</p>
