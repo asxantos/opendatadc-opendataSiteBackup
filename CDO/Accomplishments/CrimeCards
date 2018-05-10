@@ -5,5 +5,5 @@
 <br>
 <p class="text-left">The Metropolitan Police Department (MPD) and Office of the Chief Technology Officer (OCTO) <u><a target="_blank" href="http://crimecards.dc.gov">Crime Cards</a></u> application provides a comprehensive resource for analytical and downloadable data on crimes throughout in all 8 Wards. This public safety web app replaces the well-known crimemap.dc.gov. The new application is mobile friendly, uses a search engine to simultaneously present eight-times the amount of data compared to the old application, and still allows for faster analysis. The application is built on an all open source software stack including software from the District-based MapBox. The highlight of Crime Cards is an innovative sentence-based query interface that allows an ordinary non-technical person to create over 174,000 complex queries by writing a standard English sentence.</p>
 
-<!--Include this linked image card to the left of the above.-->
+<!--Include this linked image card to the left of the above. Link to crime cards app.-->
 <!--https://dcgis.maps.arcgis.com/sharing/rest/content/items/f7d1ac0c56904bb991a68db2f0483830/data-->
