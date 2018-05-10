@@ -1,0 +1,50 @@
+<!--This are the data cards that appear beneath the Relate Data with MAR introduction row.-->
+
+<ul class="cards-list">
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+  <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Address & SSL<br>Cross Reference</h4>
+        <p>Use this table to cross reference the District's address points with the square suffix and lot boundaries.</p>
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/address-and-square-suffix-lot-cross-reference">Get it Now</a>
+      </div>
+    </div>
+  </div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+    <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Common Ownership<br>Property Lots</h4>
+        <p>A single layer built from various tax lots, record lots... representing all lands that are outside right-of-way.
+</p><a class="btn btn-default" href="http://opendata.dc.gov/datasets/common-ownership-lots">Get it Now</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Computer Aided<br>Mass Appraisal</h4>
+        <p>Contains attribution on housing characteristics for residential, commercial and condo properties.</p><a class="btn btn-default" href="http://opendata.dc.gov/datasets?q=cama">Get it Now</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Integrated Tax<br>System Extract</h4>
+        <p>Chief Financial Officer’s property tax data for assessments, rates, sales, use type and more.</p><a class="btn btn-default" href="http://opendata.dc.gov/datasets?q=itspe">Get it Now</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
