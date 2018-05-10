@@ -1,0 +1,55 @@
+<!--This is used to highlight what data is returned from the MAR sample client, who is responsible for maintaining the attribution and what research DC gov performs to keep the data current. It should appear beneath the Geocoding Desktop Tool row.-->
+
+<!--There are three columns. Each should be in its own text widget.-->
+
+<!--First Column-->
+<h3 class="text-left">Returns</h3>
+<li>Unique Address Identification Number (AID)</li>
+<li>Building Street Number</li>
+<li>Street Name</li>
+<li>Street Type</li>
+<li>Quadrant</li>
+<li>Concatenated Full Address</li>
+<li>Roadway Segment</li>
+<li>Ward</li>
+<li>Advisory Neighborhood Commission</li>
+<li>Property Square</li>
+<li>Zip code</li>
+<li> Voting Precinct</li>
+<li>X Coordinates (MD State Plane Meters)</li>
+<li>Y Coordinates (MD State Plane Meters)</li>
+
+<!--Second Column-->
+<h3 class="text-left">Responsibilities</h3>
+<a href="https://octo.dc.gov">Office of the Chief Technology Officer</a>
+<li>Database Maintenance and Updates</li>
+<li>Continuous Data Maintenance</li>
+<li>Web Service Operations</li>
+<li>Address Field Verification Research</li>
+<li>Submissions from DC residents</li>
+<li>Research Special Cases</li>
+<br>
+<a href="https://dcra.dc.gov">Department of Consumer and Regulatory Affairs</a>
+<br>
+<li>Assigning New Addresses</li>
+<br>
+<a href="https://ddot.dc.gov">District Department of Transportation</a>
+<li>Street Centerline Data</li>
+<li>Street Names</li>
+<li>Roadway Segment Identification</li>
+
+<!--Third Column-->
+<h3 class="text-left">Research</h3>
+<li>US Postal Service</li>
+<li>Census Bureau</li>
+<li>Voter Roll</li>
+<li>Internet Searches</li>
+<li>Street Centerlines</li>
+<li>Business Licenses</li>
+<li>Utilities</li>
+<li>Tax & Revenue Records</li>
+<li>Driver's Licenses</li>
+<li>Street Imagery</li>
+<li>Aerial Imagery</li>
+<li>Field Review</li>
+<li>Building Permits</li>
