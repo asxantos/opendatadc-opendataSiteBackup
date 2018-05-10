@@ -1,0 +1,11 @@
+<!--This is the Quick Location Lookup introduction row.-->
+<!--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/4ed430bf8bd7471bb272b3f5e1fb3fac/data-->
+
+<div style="background: rgba(50,50,50,0.8); color: #fff; padding: 20px; height: 400px;">
+<h3 style="font-size: 30px; line-height: 32px;">Quick Location Lookup</h3>
+<h6 style="font-size: 16px; margin-top: 40px;">The District created a nice, easy to use, website where anyone can search for a single address or square suffix lot. Just use one of our standard methods to get quick information. What Ward are you located in? What is your police district? What else?</h6>
+<br>
+<a target="_blank" href=http://dcatlas.dcgis.dc.gov/mar/
+class="btn btn-default open-btn">District Location Lookup</a>
+</p>
+</div>
