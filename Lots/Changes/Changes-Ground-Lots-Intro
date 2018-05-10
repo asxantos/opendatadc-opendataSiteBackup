@@ -1,0 +1,18 @@
+<!--This is a row for Ground Surface Lots.-->
+
+<h3 class="text-left">Ground Surface Lots</h3>
+<h6>These <a href="http://opendata.dc.gov/datasets/record-lots">records</a> and <a href="http://opendata.dc.gov/datasets/reservation-boundaries">reservations</a> are considered ground lots and can only be combined, subdivided, or killed by itself. It is why in most scenarios you can only obtain a building permit for record lots. Reservations were acquired by the Federal government by purchase, condemnation, dedication or as a gift. Almost all U.S. reservations are under the Jurisdiction of the National Park Service. Note that both may have superseding <a href="http://opendata.dc.gov/datasets/tax-lots">tax lots</a> for land tracking purposes.</h6>
+
+<!--Include this image to the right of the above: http://dcgis.maps.arcgis.com/sharing/rest/content/items/dda6a35340cb4f54baefef1c087caa33/data-->
+
+<!--Include the Of-Lot process directly beneath the two items above.-->
+
+<h6>
+The <i>"of-lot"</i> Process:
+<br>
+<br>
+A ground lot can also become an <i>of-lot</i> if and when there is an overlay that is being subdivided for development or sale. An <i>of-lot</i> is the D.C. Surveyor’s Office term for describing <i>Remaining Part of Original Lot.</i> Sometimes this is done to obtain permitting.
+<br>
+<br>
+If a value of 1 is in the <i>OF_LOT_SEQ</i> field, you can assume that at one time the original lot was modified. Typically, any of these <i>of-lots</i> will also have a tax lot overlapping them since it is a piece or remainder of a record lot. There are approximately 11,500 <i>of-lots</i>.
+</h6>
