@@ -1,0 +1,10 @@
+<!--This row is for Condo Approval Lots in Detail introduction. There will be three text widgets directly beneath titled Approval for Ground, Approval for Overlay and Condo Relationships.-->
+<!--Image: https://dcgis.maps.arcgis.com/sharing/rest/content/items/21e093570a7d4747a6b9428d9c851a54/data-->
+
+<div style="background: rgba(50,50,50,0.8); color: #fff; padding: 20px; height: 325px;">
+<h4 style="font-size: 25px; line-height: 32px;">Condo Approval Lots in Detail</h4>
+<h6 style="font-size: 16px; margin-top: 40px;">The Condo Approval Lots layer was created to assist you in identifying the relationship between ground surface lots, overlay lots and their associated condominiums. It helps users research the original source material recorded in the Office of the Surveyor and view their boundaries.</h6>
+<br>
+<br>
+<h6>Condo dwellings can also be found using the individual active record lots, dead air rights and tax lots where the value in the <i>UNDERLIES_CONDO</i> field is equal to 1.</h6>
+</div>
