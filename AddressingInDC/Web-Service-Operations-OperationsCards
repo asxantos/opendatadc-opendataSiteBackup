@@ -1,0 +1,52 @@
+<--These operations cards appear below the Web Service Operations introduction.-->
+
+<ul class="cards-list">
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+  <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Location Verifier</h4>
+        <p><i>findLocation</i><br>A catch all location query operation including DC addresses, intersections, blocks, AID, and place names. Variables: str - query string; f - json or xml.
+</p><a class="btn btn-default" href="https://citizenatlas.dc.gov/newwebservices/locationverifier.asmx?op=findLocation2">Show Me How</a>
+      </div>
+    </div>
+  </div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+    <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Get DC Address</h4>
+        <p><i>getDCAddresses</i><br>Takes a string (minimum four characters) and returns all DC addresses beginning with. Variables: str - query string; f - json or xml.
+</p><a class="btn btn-default" href="https://citizenatlas.dc.gov/newwebservices/locationverifier.asmx?op=getDCAddresses2">Show Me How</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Verify with String</h4>
+        <p><i>verifyDCAddressThrouString</i><br>Uses concatenated DC address and returns information matching the given string. Variables: Address - concatenated DC address string; f - json or xml.
+</p><a class="btn btn-default" href="https://citizenatlas.dc.gov/newwebservices/locationverifier.asmx?op=verifyDCAddressThrouString2">Show Me How</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Get Street Name</h4>
+        <p><i>getDCStreetNames</i><br>Calling streets in quad. Refine with start characters of street's name. Variables: quad - NE, NW, SE, SW; initialetters - string of character the result begin with; f - json or xml.
+</p><a class="btn btn-default" href="https://citizenatlas.dc.gov/newwebservices/locationverifier.asmx?op=getDCStreetNames2">Show Me How</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
