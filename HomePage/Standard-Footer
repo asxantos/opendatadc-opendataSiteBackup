@@ -1,0 +1,31 @@
+<!--This is the standard footer, created May 10, 2018.-->
+
+<div class="col-xs-12">
+    <div class="col-sm-6 col-md-6">
+        <p><b>Connect with Us</b></p>
+        <img src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/Bird_tweet_tweeting_twitter_logo-32.png">
+        <a href="https://twitter.com/opendatadc" style="color:white" target="_blank">@OpenDataDC on Twitter</a>
+        <br>
+        <img src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/Bird_tweet_tweeting_twitter_logo-32.png">
+        <a href="https://twitter.com/OCTODC" style="color:white" target="_blank">@OCTODC on Twitter</a>
+        <br>
+        <img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-32.png">
+        <a href="http://octo.dc.gov/node/718432" style="color:white" target="_blank">Subscribe to Data Updates</a>
+        <br>
+        <img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-32.png">
+        <a href="mailto:open.data@dc.gov" style="color:white" target="_blank">open.data@dc.gov</a>
+    </div>
+    <div class="col-sm-6 col-md-6">
+        <p><b>Learn More</b></p>
+        <a href="https://octo.dc.gov/page/district-columbia-data-policy" style="color:white" target="_blank">DC Government Data Policy</a>
+        <br>
+        <a href="https://dc.gov/node/939602" style="color:white" target="_blank">Data Terms of Use</a>
+        <br>
+        <a href="http://dcgis.maps.arcgis.com" style="color:white" target="_blank">DC's ArcGIS Online Organization</a>
+        <br>
+      <a href="http://octo.dc.gov/service/dc-geographic-information-system-program" style="color:white" target="_blank">District of
+            Columbia GIS</a>
+            <br>
+            <a href="https://octo.dc.gov/blog/meet-chief-data-officer-barney-krucoff" style="color:white" target="_blank">Meet our Chief Data Officer</a>
+    </div>
+</div>
