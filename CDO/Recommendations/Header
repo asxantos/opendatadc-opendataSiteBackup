@@ -1,0 +1,22 @@
+<!--This is the header for the CDO Recommendations page.-->
+
+<style>
+body {font-size: 16px;}
+.about-initiative {min-height: 200px;  color: #fff;}
+.about-initiative h1 {font-size: 40px; line-height: 42px; padding: 10px; display:inline-block; margin-top: 40px;}
+.about-initiative p {font-size: 20px;padding: 9px; display:inline-block;}
+</style>
+<div class="about-initiative">
+<h1>Chief Data Officer's Recommendations</h1><br />
+<p>Looking ahead and taking action as appropriate to further the Data Policy.</p>
+</div>
+
+<!--Include the below summary in a separate row directly beneath the above.-->
+<h5>The CDO's roles and responsibilities includes providing recommendations to the District's Chief Technology Officer, the City Administrator, and the Mayor. Such proposals could be changes to laws and regulations as may be required to ensure the protection of data; for bringing non-compliant public bodies or systems into compliance with security standards; and, a list of datasets planned to be opened during the then-current fiscal year. These recommendations are voiced by the CDO, however organized from the ideas of both public and District agency stakeholders such the <u><a style="color:white" href="https://octo.dc.gov/page/interagency-data-team">Interagency Data Team.</u></h5>
+
+<!--Include this navigation bar directly beneath the summary above.-->
+<ul class="nav nav-pills" role="tablist">
+  <li role="presentation"> <a href="http://opendata.dc.gov/pages/cdo-annual-report">Enterprise Data Inventory</a></li>
+  <li role="presentation" class="active"><a href="http://opendata.dc.gov/pages/cdo-annual-recommendations">Recommendations</a></li>
+  <li role="presentation"><a href="http://opendata.dc.gov/pages/cdo-annual-accomplishments">Accomplishments</a></li>
+</ul>
