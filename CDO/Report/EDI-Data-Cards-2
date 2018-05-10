@@ -1,0 +1,57 @@
+<!--This is the second row of EDI Data Cards and should be a separate row beneath the first data card row.-->
+
+<br>
+<ul class="cards-list">
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Updated in FY17</h4>
+        <p>The District works to stay current with its data. In fiscal year 2017, there were 128 data layers updated.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/enterprise-dataset-inventory-updated-in-fy17">View the Updates</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+    <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>New in FY17</h4>
+        <p>The catalog published 69 new data layers as a result of increased collaboration with District agencies.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/enterprise-dataset-inventory-new-in-fy17">View the Additions</a>
+</div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Updated in FY18</h4>
+        <p>The District works to stay current with its data. In fiscal year 2018, DC has thus far updated 65 data layers.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/enterprise-dataset-inventory-updated-in-fy18">View the Updates</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>New in FY18</h4>
+        <p>So far, the catalog has published 22 new data layers and will increase with newly identified Level 0 datasets.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/enterprise-dataset-inventory-new-in-fy18">View the Additions</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
