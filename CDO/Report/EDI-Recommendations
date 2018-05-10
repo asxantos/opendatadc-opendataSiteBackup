@@ -1,0 +1,13 @@
+<!--This is the Recommendations for Success row. It also has a linked image to the CDO Recommendations initiative page.-->
+
+<h1 class="text-center">Recommendations for Continued Success</h1>
+<i><p class="text-center">Looking ahead and taking action as appropriate to further the Data Policy.</p></i>
+<br>
+<p>The CDO's roles and responsibilities includes providing recommendations to the District's Chief Technology Officer, the City Administrator, and the Mayor. Such proposals could be changes to laws and regulations as may be required to ensure the protection of data; for bringing non-compliant public bodies or systems into compliance with security standards; and, a list of datasets planned to be opened during the then-current fiscal year. These recommendations are voiced by the CDO, however organized from the ideas of both public and District agency stakeholders such the <a href="https://octo.dc.gov/page/interagency-data-team">Interagency Data Team</a>.
+<br>
+<br>
+<a href=http://opendata.dc.gov/pages/cdo-annual-recommendations
+class="btn btn-default open-btn">Detailed Recommendations</a>
+
+<!--Include this image to the right of the above and should link to http://opendata.dc.gov/pages/cdo-annual-recommendations-->
+<!--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/2e824543529e4b6ca28ba4a272532656/data-->
