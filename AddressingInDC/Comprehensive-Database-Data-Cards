@@ -1,0 +1,52 @@
+<--This is used for the data cards that appear below the Comprehensive Database introduction.-->
+
+<ul class="cards-list">
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+  <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Address Points</h4>
+        <p>A table which stores primary addresses for DC. They are typically geographically placed within a building footprint and mostly from DCRA.
+</p><a class="btn btn-default" href="http://opendata.dc.gov/datasets/address-points">Show Me More</a>
+      </div>
+    </div>
+  </div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+    <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Intersection Points</h4>
+        <p>An Intersection is a road junction where two or more street segments meet. In cases where streets
+meet alleys, this not recognized as an intersection.
+</p><a class="btn btn-default" href="http://opendata.dc.gov/datasets/intersection-points">Show Me More</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Block Centroids</h4>
+        <p>A block represents a street segment which usually has two bordering streets. The coordinates for
+the blocks are located at the midpoint of the street segment. </p><a class="btn btn-default" href="http://opendata.dc.gov/datasets/block-centroids">Show Me More</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Points of Interest</h4>
+        <p>Also known as place names. Examples are: historical sites, building names , metro stations, traffic circles, federal buildings, cultural sites and embassies.</p><a class="btn btn-default" href="http://opendata.dc.gov/datasets/points-of-interest">Show Me More</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
