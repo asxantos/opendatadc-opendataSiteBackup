@@ -1,4 +1,4 @@
-<!--This row is for Condo Approval Lots in Detail introduction. There will be three text widgets directly beneath titled Approval for Ground, Approval for Overlay and Condo Relationships.-->
+<!--This row is for Condo Approval Lots in Detail introduction. There will be three Condo elements directly beneath titled Approval for Ground, Approval for Overlay and Condo Relationships. See Condo-Elements-->
 <!--Image: https://dcgis.maps.arcgis.com/sharing/rest/content/items/21e093570a7d4747a6b9428d9c851a54/data-->
 
 <div style="background: rgba(50,50,50,0.8); color: #fff; padding: 20px; height: 325px;">
