@@ -1,0 +1,4 @@
+<!--This is the header for the How Were Datasets Classified row and should appear beneath the data cards.-->
+
+<h1 class="text-center">How were Datasets Classified?</h1>
+<p class="text-center">The DC Data Policy also lays out a dataset classification system to help determine which enterprise datasets should be open to the public and which should be closed. Classifications were submitted by each Agency Data Officer and approved the agency General Counsel.</p>
