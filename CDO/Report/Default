@@ -1,0 +1,7 @@
+<!--This is an explanation of what it means to be Open by Default. It should include an image link for the full report to the left.-->
+
+<h1 class="text-left">What is "Open by Default?"</h1>
+<p class="text-left">Although the policy balances openness and security, it prioritizes transparency. The policy states that “enterprise datasets shall be open by default, meaning their existence will be <i>publicly acknowledged</i>, and further, if enterprise datasets are not shared, an explanation for restricting access will be publicly provided.” In other words, “open by default” means that although the District has many datasets that it cannot share, we should not have any enterprise datasets that we will not publicly acknowledge, which is accomplished by publishing an annual <a style="color:white" href="http://opendata.dc.gov/datasets/enterprise-dataset-inventory"><u>Enterprise Dataset Inventory</u></a>.</p>
+
+<!--Include this image to the left of the above. It should link to the full CDO report at http://dcgis.maps.arcgis.com/sharing/rest/content/items/be96b0d937e44f258cc7eb62ca28f30f/data-->
+<!--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/2e824543529e4b6ca28ba4a272532656/data-->
