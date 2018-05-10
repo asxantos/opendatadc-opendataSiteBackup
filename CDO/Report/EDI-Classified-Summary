@@ -1,0 +1,35 @@
+<!--This is the How Were Datasets Classified summary table and should appear directly beneath the introduction in its own row.-->
+
+<style>
+.pledge {border: 3px solid #ffffff; padding: 5px; display: table; font-size: 14px; width: 100%; margin-bottom: 10px; }
+.pledge .checklist-number {display: table-cell;width: 80px; vertical-align: middle; font-size: 80px; background-color: transparent; color: #ffffff; font-weight: bold;}
+.pledge .pledge-action {background-color: #ededed; color: #4c4c4c; display: table-cell; vertical-align: middle; padding: 10px 20px;}
+.pledge .pledge-action h3 {font-weight: bold; margin-top: 10px;}
+.pledge .callout {font-size: 70px; line-height: 50px; color: #fff; display: inline; margin: 15px;}
+</style>
+
+<div class="pledge">
+<span class="checklist-number text-center">0</span>
+<div class="pledge-action"><h3>Open</h3><p>Level 0 is any data that is open to the public and should be proactively released. This is the default classification for the EDI and applies to any dataset that agencies do not determine to have a higher security level. Of the 1,640 datasets in the inventory, 708 (43.2%) were classified Open, making it the most common classification.</p></div>
+</div>
+
+<div class="pledge">
+<div class="pledge-action"><h3>Public Not Proactively Released</h3><p>Level 1 data is not protected from public disclosure but is not proactively published because of concerns over safety, privacy, security, or legal concerns.  Only 137 (8.4%) of datasets in the inventory were classified Public Not Proactively Released, making it one of the least common classifications.</p></div>
+<span class="checklist-number text-center">1</span>
+</div>
+
+<div class="pledge">
+<span class="checklist-number text-center">2</span>
+<div class="pledge-action"><h3>For District Government Use</h3><p>Level 2 data is “subject to one or more FOIA exemptions, [but] is not highly sensitive and may be distributed within the District government.” 193 (11.8%) of datasets in the inventory were classified For District Government Use.</p></div>
+</div>
+
+<div class="pledge">
+<div class="pledge-action">
+<h3>Confidential</h3><p>Level 3 data is “protected from disclosure by law” and is either highly sensitive or restricted from disclosure to other public bodies. 508 (31.0%) of datasets were classified Confidential, making it the second most common classification. This is unsurprising since DC government collects a lot of data it cannot legally share, including health data (protected by HIPAA), student data (protected by FERPA), and various kinds of personally identifying information (PII).</p></div>
+<span class="checklist-number text-center">3</span>
+</div>
+
+<div class="pledge">
+<span class="checklist-number text-center">4</span>
+<div class="pledge-action"><h3>Restricted Confidential</h3><p>Level 4 refers to datasets for which “unauthorized disclosure could potentially cause major damage or injury, including death…or otherwise significantly impair the ability of the agency to perform its statutory functions.”  Only about 94 (5.7%) of the datasets recorded in the inventory were classified Restricted Confidential, making it the least common classification in the inventory.</p></div>
+</div>
