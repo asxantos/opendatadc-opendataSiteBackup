@@ -1,0 +1,14 @@
+<--This is the Web Service Operations introduction row.-->
+
+<div style="background: rgba(50,50,50,0.8); color: #fff; padding: 20px; height: 400px;">
+<h3 style="font-size: 30px; line-height: 32px;">Web Service Operations</h3>
+<h6 style="font-size: 16px; margin-top: 40px;">Web services are a series of APIs which primarily call DC Government’s MAR. These operations return a wealth of information about locations in Washington, DC offered as XML based returns (.NET and SOAP) and JSON. Great news! These APIs are freely available to all users, not just DC gov. By using the MAR web services, users can take advantage of DC's authoritative data sources including the best available source of addressing and street network.</h6>
+<br>
+<a href=http://opendata.dc.gov/pages/mar-webservices
+class="btn btn-default open-btn">Using MAR Web Services</a>
+<br>
+<br>
+<a href=https://octo.dc.gov/node/1166991
+class="btn btn-default open-btn">Responsible Use of Web Services</a>
+</p>
+</div>
