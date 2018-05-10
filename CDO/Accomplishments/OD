@@ -1,0 +1,17 @@
+<!--Row for the Updated Open Data Portal.-->
+
+<div class="text-left" style="background: rgba(1,44,59,0.4); width: 40%; height:50px; box-shadow:1px 1px 10px black; color:white; font-size:20px; line-height:28px">
+<b style="padding-left:10px">Updated Open Data Portal</b></div>
+<br>
+<p class="text-left">Released a significant update to the District’s Open Data Catalog. The catalog now features recently published web applications built by the OCTO Data Team that directly link to the data. It also takes visitors to a wealth of educational content for using web services, APIs, and even an application starter kit for developers on GitHub.  The Data Team also maintained and documented hundreds of datasets for opendata.dc.gov. Many new or extensively upgraded datasets were released in the past year.
+<br>
+<br>
+Highlights are,
+<li><a href="http://opendata.dc.gov/datasets/district-government-agencies">District Gov Agency List, the Office of the Chief Technology Officer</a></li>
+<li><a href="http://opendata.dc.gov/datasets?q=basemap">Basemaps, the Office of the Chief Technology Officer</a></li> 
+<li><a href="http://opendata.dc.gov/datasets?q=campaign%20finance">Campaign Finance, the Office of Campaign Finance</a></li> 
+<li><a href="http://opendata.dc.gov/datasets/foia-requests">FOIA Request Tracking, the Office of the Chief Technology Officer</a></li> 
+<li><a href="http://opendata.dc.gov/datasets/historic-data-on-dc-buildings">Historic Buildings, the Office of Planning</a></li> 
+<li><a href="http://opendata.dc.gov/datasets?q=homeless%20shelter">Homeless Shelters and Service Facilities, the Department of Human Services</a></li> 
+<li><a href="http://opendata.dc.gov/datasets?q=impervious">Impervious Surfaces, the Office of the Chief Technology Officer, in cooperation with DC Water and Department of Energy and Environment</a></li>
+</p>
