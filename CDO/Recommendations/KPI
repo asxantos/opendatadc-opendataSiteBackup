@@ -1,0 +1,15 @@
+<!--Row for the Key Performance Indicator recommendation.-->
+
+<div style="background: rgba(50,50,50,0.4); box-shadow:1px 1px 10px black; color: #fff; padding: 30px;">
+<h4>Adopt EDI Participation as a Key Performance Indicator for All Agencies</h4>
+<br>
+<p>The <a style="color:white" href="https://oca.dc.gov/">Office of the City Administrator</a> should develop Key Performance Indicators (KPIs) that encourage agency participation in the EDI:
+<br>
+<br>
+<li>City-wide: total number of datasets logged in the EDI.</li>
+<li>City-wide total number of datasets classified as Level-0; total number of datasets posted on the online data portal.</li>
+<li>Each agency: number of datasets in the inventory.</li>
+<li>Each agency: total number of datasets classified as Level-0; total number of datasets posted on the online data portal.</li></p>
+<br>
+<p class="text-center"><span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span></p>
+</div>
