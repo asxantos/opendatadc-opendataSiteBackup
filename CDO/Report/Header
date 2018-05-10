@@ -1,0 +1,22 @@
+<!--Image:http://dcgis.maps.arcgis.com/sharing/rest/content/items/3d24eb4175664b49b092c1cf35b09781/data-->
+
+<style>
+body {font-size: 16px;}
+.about-initiative {min-height: 200px;  color: #fff;}
+.about-initiative h1 {font-size: 40px; line-height: 42px; padding: 10px; display:inline-block; margin-top: 40px;}
+.about-initiative p {font-size: 20px;padding: 9px; display:inline-block;}
+</style>
+<div class="about-initiative">
+<h1>Chief Data Officer's Annual Report </h1><br />
+<p>Government data as a public good shared efficiently and open.</p>
+</div>
+
+<!--Include this introduction text below the header above.-->
+<div class="text-left" style="padding-top: 20px; padding-bottom: 20px;"><h5>Mayor Bowser is  committed to "making our local government one of the most accessible systems in the country." To that end, the District of Columbia enacted a comprehensive Data Policy, on April 27, 2017, with the stated goal of leading DC government toward more open and efficient use of government data. The annual report is an evaluation of the previous fiscal year's progress in implementing the Data Policy. Read the complete <a style="color:white" target="_blank" href="http://dcgis.maps.arcgis.com/sharing/rest/content/items/be96b0d937e44f258cc7eb62ca28f30f/data"><u>Chief Data Officer's Annual Report</u></a> published on March 11, 2018.</h5></div>
+
+<!--Include this navigation bar directly beneath the introduction text above.-->
+<ul class="nav nav-pills" role="tablist">
+  <li role="presentation" class="active"><a href="http://opendata.dc.gov/pages/cdo-annual-report">Enterprise Data Inventory</a></li>
+  <li role="presentation"><a href="http://opendata.dc.gov/pages/cdo-annual-recommendations">Recommendations</a></li>
+  <li role="presentation"><a href="http://opendata.dc.gov/pages/cdo-annual-accomplishments">Accomplishments</a></li>
+</ul>
