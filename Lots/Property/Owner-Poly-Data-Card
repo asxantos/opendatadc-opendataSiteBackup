@@ -1,0 +1,20 @@
+<!--This is a long horizontal Common Ownership Lots data card. It should appear directly beneath the Recorded Lands and Taxation data cards.-->
+
+<div class="col-xs-12">
+<div class="calcite-web">
+<div class="card-base card-wide">
+  <div class="card-wide-image-wrap">
+    <img alt="Common Ownership Lots" class="card-wide-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/aefe9f4c88cb498487af5f458fe5b1ce/data">
+    <div class="card-image-caption">
+      A Consolidated Data Set
+    </div>
+  </div>
+  <div class="card-content">
+    <h4><a href="http://opendata.dc.gov/datasets/common-ownership-lots">Common Ownership Lots</a></h4>
+    <p>This polygon layer is built from the various lot types in the District. The common ownership dataset is conflated by Square, Suffix and Lot to include: Air Rights, Record, Parcel, Tax and Reservation lots. Some Parcels and Reservations fall outside of a Square’s boundary.  It does NOT include condominiums. Refer to the <a href="http://opendata.dc.gov/datasets/condo-relate-table">Condo Relate Table</a> and <a href="http://opendata.dc.gov/datasets/condo-approval-lots">Condo Approval Lot</a> data.</p>
+<span class="glyphicon glyphicon-option-horizontal"></span>    
+<h6>Considered a primary data set to begin working with.</h6>
+  </div>
+</div>
+</div>
+</div>
