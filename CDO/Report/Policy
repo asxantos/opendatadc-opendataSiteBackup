@@ -1,0 +1,9 @@
+<!--This is introduction text describing the new data policy. It should be in its own row. Also, include the linked image to the right.-->
+
+<h1 class="text-center">Data Policy</h1>
+<i><p class="text-center">Balancing openness and security while prioritizing transparency.</p></i>
+<br>
+<p>The <a target="_blank" href="https://octo.dc.gov/page/district-columbia-data-policy">policy</a> establishes principles acknowledging the value of data and the inherent need to balance openness with other concerns. Data are valuable assets independent of the information systems in which the data reside. The greatest value from those assets is realized when freely shared to the extent consistent with the protection of safety, privacy, and security.</p>
+
+<!--Include linked image to the right. Link to the data policy-->
+<!--http://dcgis.maps.arcgis.com/sharing/rest/content/items/2c670f0e33f7477aafdb022ee3af4e69/data-->
