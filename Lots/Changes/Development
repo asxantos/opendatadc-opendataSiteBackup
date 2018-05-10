@@ -1,0 +1,6 @@
+<!--This is a Lots of Development text widget that should appear to the right of the Lots of Zoning widget.-->
+
+<h3 class="text-left">Lots of Development</h3>
+<h6>The <a href="http://opendata.dc.gov/datasets/wdcep-development-report">Development Report 2016-2017</a> is a summary of major development and construction projects. The <a href="https://wdcep.com/" target="_blank">Washington DC Economic Partnership (WDCEP)</a> tracks these throughout the year and performs an annual “census” in the month of August. This research and outreach receives contribution from more than 100 developers, architects, contractors, and economic development organizations. This results in updates to 400 plus projects. Although every attempt is made to ensure the quality of the information contained in the report, WDCEP makes no warranty or guarantee as to its accuracy, completeness, or usefulness for any given purpose.</h6>
+<br>
+<a class="btn btn-primary" href="http://opendata.dc.gov/datasets/wdcep-development-report"style="color:white">Click for Data</a>
