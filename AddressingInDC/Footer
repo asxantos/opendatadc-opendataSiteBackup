@@ -1,0 +1,14 @@
+<!--In addition to the standard Open Data DC footer, this footer should appear to the right. It links to additional Addressing in DC resources.-->
+
+<p><b>More Documentation (PDF)</b></p>
+        <a href="https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/DCGIS-MarAddressStandards_0.pdf" style="color:white">Address Standard Formats</a>
+        <br>
+      <a href="https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/DCGIS_MarAddressAnomalies_0.pdf" style="color:white">Anomalies Reports</a>
+            <br>
+        <a href="https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/DCGIS_MarDataDictionary_0.pdf" style="color:white">Data Dictionary</a>
+        <br>
+            <a href="https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/DCGIS-MarFAQ_0.pdf" style="color:white">Frequently Asked Questions</a>        
+<a href="https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/MAR_Overview_Presentation.pdf" style="color:white">Presentation Overview</a>
+        <br>
+<a href="https://octo.dc.gov/node/1166991" style="color:white">Responsible Uses of Web Services</a>
+        <br>
