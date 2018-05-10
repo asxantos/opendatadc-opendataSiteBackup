@@ -1,0 +1,13 @@
+<!--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/1b72b874c88f4883899911ea6e8b0614/data-->
+<!--Tag Line: Representing parcel boundaries for the numerous geographies that exist in the District.-->
+
+<!---Include this introction text in a separate row.-->
+<h5 class="text-left">Property or parcel data is a critical layer to any city or statewide data holdings. In our city's complex urban environment, this includes numerous geographies that identify federal government lands, reservations, District lands, personal property and so much more. The District's Vector Property Mapping (VPM) project works daily to capture property lot transactions so that city planners, business development leaders and residents stay current. Read below to help you identify how DC lot data is organized and key points on their relationships.</h5>
+<br>
+
+<!--Include this navigation bar below the introduction as a separate row.-->
+<ul class="nav nav-pills" role="tablist">
+  <li role="presentation" class="active"><a href="http://opendata.dc.gov/pages/lots-in-dc">Lots in DC</a></li>
+  <li role="presentation"><a href="http://opendata.dc.gov/pages/qa-for-lots">Common Questions</a></li>
+  <li role="presentation"><a href="http://opendata.dc.gov/pages/changes-in-lots">Changes in Lots</a></li>
+</ul>
