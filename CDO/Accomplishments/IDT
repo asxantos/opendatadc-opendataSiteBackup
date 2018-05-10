@@ -1,0 +1,16 @@
+<!--Accomplishments row for the Interagency Data Team.-->
+
+<div class="text-left" style="background:rgba(50,50,50,0.4); width: 50%; height:50px; box-shadow:1px 1px 10px black; color:white; font-size:20px; line-height:28px">
+<b style="padding-left:10px">Interagency Data Team</b></div>
+<br>
+<p class="text-left">The <a href="https://octo.dc.gov/page/interagency-data-team">Interagency Data Team (IDT)</a>, established in 2016, is a group composed of Agency Data Officers (ADO) with representation from all fields of District government. The team is also welcoming of other District data analysts who engage in discussions for a better kind of data culture - collection, sharing and cross-cutting analytics to name a few. The team is coordinated by the Office of the Chief Technology Officer (OCTO), lead by the Chief Data Officer (CDO), and directly supports the District of Columbia's Data Policy.</p>
+
+<!--Include this as a separate text widget to the right of the above.-->
+<br>
+<br>
+<br>
+<div style="color:#012C3B; font-size:18px">
+<li><a href="https://octo.dc.gov/node/1310861">Past Agendas</a></li>
+<li><a href="https://octo.dc.gov/node/1310851">Recent Presentations</a></li>
+<li><a href="https://octo.dc.gov/node/1310851">Meeting Notes</a></li>
+</div>
