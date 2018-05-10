@@ -1,0 +1,43 @@
+<!--This is the first data card row that appears beneath the Recorded Lands and Taxation row.-->
+
+<ul class="cards-list">
+    <li class="col-sm-12 col-md-4">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Reservations</h4>
+        <p>Almost all under National Park Service jurisdiction. These lands are acquired for use by the Federal Government after the original founding of the city.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/reservation-boundaries">Show Me Data</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-sm-12 col-md-4">
+    <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Condominiums</h4>
+        <p>Non-geographically defined individual lots for each condominium.  Numbers normally range from 2000-6999. Also use the <a href="http://opendata.dc.gov/datasets/condo-relate-table">Condo Relate Table.</a></p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets?q=condo">Show Me Data</a>
+</div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-sm-12 col-md-4">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Air Rights</h4>
+        <p>These reflect a party’s right to construct an improvement above an existing area of land that is not owned by the constructor.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/air-rights-lots">Show Me Data</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
