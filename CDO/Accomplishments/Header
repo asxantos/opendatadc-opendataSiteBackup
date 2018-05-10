@@ -1,0 +1,12 @@
+<!--Image row: http://dcgis.maps.arcgis.com/sharing/rest/content/items/3d24eb4175664b49b092c1cf35b09781/data-->
+
+<style>
+body {font-size: 16px;}
+.about-initiative {min-height: 200px;  color: #fff;}
+.about-initiative h1 {font-size: 40px; line-height: 42px; padding: 10px; display:inline-block; margin-top: 40px;}
+.about-initiative p {font-size: 20px;padding: 9px; display:inline-block;}
+</style>
+<div class="about-initiative">
+<h1>Chief Technology Office's<br>Data Team Accomplishments</h1><br />
+<p>Working towards a more open data community for the District government and its residents we serve.</p>
+</div>
