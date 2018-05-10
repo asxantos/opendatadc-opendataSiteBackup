@@ -1,0 +1,8 @@
+<!--Navigation bar for Changes in Lots-->
+
+<br>
+<ul class="nav nav-pills" role="tablist">
+  <li role="presentation"><a href="http://opendata.dc.gov/pages/lots-in-dc">Lots in DC</a></li>
+  <li role="presentation"><a href="http://opendata.dc.gov/pages/qa-for-lots">Common Questions</a></li>
+  <li role="presentation" class="active"><a href="http://opendata.dc.gov/pages/changes-in-lots">Changes in Lots</a></li>
+</ul>
