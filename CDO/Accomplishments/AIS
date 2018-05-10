@@ -1,0 +1,29 @@
+<!--Row for the Aerial Imagery Services.-->
+
+<div class="text-left" style="background:rgba(1,44,59,0.4); width: 50%; height:50px; box-shadow:1px 1px 10px black; color:white; font-size:20px; line-height:28px">
+<b style="padding-left:10px">Aerial Imagery Services</b></div>
+<br>
+<p class="text-left">The OCTO Data team collects <a href="https://en.wikipedia.org/wiki/Orthophoto" target="_blank">Orthophotography </a>and now <a href="https://en.wikipedia.org/wiki/Lidar" target="_blank">LiDAR </a>data on a regular basis since 2000. The team was recently awarded a five-year aerial imagery services contract. Services include aerial photography, LiDAR, and updates to DC’s base mapping layers with the most recent leaf-off product collected in Spring 2017. These aerial images have a variety of uses including web based visualizations and to create derivative data such as buildings, roads and elevation models. They are viewed in many District web applications and made available as downloadable files. They can also be accessed as web services to integrate into your own content.</p>
+<br>
+<h6 class="text-left"><a href='https://content.govdelivery.com/accounts/DCWASH/bulletins/1d545f8'><span class="glyphicon glyphicon-share" aria-hidden="true" style="color:grey"></span></a><a href="https://content.govdelivery.com/accounts/DCWASH/bulletins/1d545f8" target="_blank" style="color:grey">DC Government Releases New 2017 Basemap Data Layers</a></h6>
+<h6 class="text-left"><a href='https://aws.amazon.com/blogs/publicsector/lidar-data-for-washington-dc-is-available-as-an-aws-public-dataset/'><span class="glyphicon glyphicon-share" aria-hidden="true" style="color:grey"></span></a><a href="https://aws.amazon.com/blogs/publicsector/lidar-data-for-washington-dc-is-available-as-an-aws-public-dataset/" target="_blank" style="color:grey">LiDAR Data for Washington DC is Available as an AWS Public Dataset
+</a></h6>
+
+<!--Include this highlighted initiative card to the left of the above.-->
+<div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="Southwest, Wharf Development" class="card-image" src="https://dcgis.maps.arcgis.com/sharing/rest/content/items/8fa6b395c0b64558854d50970adcc84b/data">
+      <div class="card-image-caption">
+        Phase 1, Southwest Wharf Development
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a href="http://opendata.dc.gov/pages/dc-from-above" target="_blank">DC from Above</a></h4>
+      <p>Read more about DC's aerial imagery services.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-default" href="http://opendata.dc.gov/datasets?q=2017%20ortho">Download</a><a class="btn btn-primary" href="http://opendata.dc.gov/pages/dc-from-above" target="_blank" style="color:white">Research</a>
+      </div>
+    </div>
+  </div>
+</div>
