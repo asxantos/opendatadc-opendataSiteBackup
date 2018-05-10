@@ -1,0 +1,46 @@
+<!--This is the second Recorded Lands and Taxation data card row that appears beneath the first data card row.-->
+
+<ul class="cards-list">
+    <li class="col-sm-12 col-md-4">
+  <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Parcel Lots</h4>
+        <p>Lands never subdivided into either Record or Tax Lots expressed as fractions. Ex, Parcel 117/36. Mostly rural farms, Parcels are only found in the old “County of Washington.”
+</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/parcel-lots">Show Me Data</a>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+</li>
+<li class="col-sm-12 col-md-4">
+    <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Record Lots</h4>
+        <p>Typically, these lots are numbered 1 through 799 and defined by DCRA. They are official, platted, recorded subdivision lots created by the DC Surveyor’s Office.
+</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/record-lots">Show Me Data</a>
+</div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-sm-12 col-md-4">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Tax Lots</h4>
+        <p>Strictly for real estate taxation purposes and defined by RPTA. Since they are not determined by survey, they are not official in the same way record lots are.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/tax-lots">Show Me Data</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
