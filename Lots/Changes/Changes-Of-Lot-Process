@@ -1,0 +1,16 @@
+<!--This of-lot example row is accompanied by an image directly above it. Both should be their own row.-->
+
+<h6>
+Example of an <i>"of-lot:"</i>
+<br>
+<br>
+In this example, the owner of record lot 17 splits the lot into tax lots (TL) 802 and 803 in order to sell tax lot 803. The new owner of tax lot 803 submits a subdivision plat to the surveyor's office to have a new record lot. This is so that a building can be placed on the new tax lot 803.
+<br>
+<br>
+Once the subdivision plat is approved, a new record lot of 18 is created. The original record lot 17 becomes record lot <i>“of 17”</i>. The subdivision plat was submitted by the owner of tax lot 803 and therefore cannot change the original record lot number 17.
+<br>
+<br>
+Let's wrap up this example by noting that in the <a href="http://opendata.dc.gov/datasets/common-ownership-lots">common ownership lots</a> you will see this recorded as lots 18 and 802.
+</h6>
+
+<!--Include the example diagram image: https://dcgis.maps.arcgis.com/sharing/rest/content/items/0d23a246f78e43708903f490062a7d83/data-->
