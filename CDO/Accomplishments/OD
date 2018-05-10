@@ -1,0 +1,52 @@
+<!--Row for the Open Data Initiative Pages.-->
+
+<div class="text-left" style="background:rgba(50,50,50,0.4); width: 60%; height:50px; box-shadow:1px 1px 10px black; color:white; font-size:20px; line-height:28px">
+<b style="padding-left:10px">Open Data Initiatives Pages</b></div>
+<br>
+<p class="text-left"><i>Initiative Pages</i> provide agencies that release data as Level-0, Open, with an expanded opportunity to explain the data to the public. How is the data captured, updated and accessible to the public? They are written and designed as supplemental information to traditional metadata.
+<br>
+<br>
+The OCTO Data team has published,
+
+<!--Include these data cards in a separate row directly beneath the above introduction.-->
+<ul class="cards-list">
+    <li class="col-sm-12 col-md-4">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Addressing in DC</h4>
+        <p>Tools for finding and verifying addresses, place names, blocks and intersections with standardized components for agency apps and systems maintain clean integration.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/pages/addressing-in-dc">Get Informed</a>
+</div>
+</div>
+</div>
+</div>
+    </li>
+<li class="col-sm-12 col-md-4">
+    <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>DC from Above</h4>
+        <p>Aerial images have a variety of uses including web based visualizations and to create derivative data such as buildings, roads and elevation models.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/pages/dc-from-above">Get Informed</a>
+</div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-sm-12 col-md-4">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Property Lots in DC</h4>
+        <p>DC works daily to capture lot data so city planners, business leaders and residents stay current. Read how lot data is organized and key points on their relationships.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/pages/lots-in-dc">Get Informed</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
