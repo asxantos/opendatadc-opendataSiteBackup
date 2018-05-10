@@ -1,0 +1,15 @@
+<!--This is used for the Geocoding Desktop Tool instrodution row.-->
+<!--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/b1533bb171d44155b0efb2186c48db98/data-->
+
+<div style="background: rgba(50,50,50,0.8); color: #fff; padding: 20px; height: 400;">
+<h3 style="font-size: 30px; line-height: 32px;">Geocoding Desktop Tool</h3>
+<h6 style="font-size: 16px; margin-top: 40px;">The MAR Geocoder is a desktop application that employs web services to assign a location in the form of geographic coordinates.  It includes built in quality control tools to review records  and take advantage of several look-up tables for alternative names, abbreviations, misspellings, etc.  The resulting data adheres to the DC’s addressing standard.</h6>
+<br>
+<a href=https://octo.dc.gov/node/1161947
+class="btn btn-default open-btn">Install the Geocoder</a>
+<br>
+<br>
+<a href=https://octo.dc.gov/publication/mar-troubleshooting-guide
+class="btn btn-default open-btn">Troubleshooting Guide</a>
+</p>
+</div>
