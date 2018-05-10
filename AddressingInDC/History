@@ -1,4 +1,11 @@
-<--This is used in the Before and After the MAR row, created May 10, 2018.-->
+<--This is used in the Before, After and Goals for the MAR row, created May 10, 2018.-->
 <--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/306fe2f7a4414cc888d4321a9ea9acac/data-->
 
 <h5>The District of Columbia government uses the Master Address Repository (MAR) to implement intelligent search functionality for finding and verifying addresses, place names, blocks and intersections. It provides complete standardization of addressing components so that agency applications and systems maintain clean integration. Most often the MAR is solely known for its address points. But did you know it is also a web data service, a standalone app, a toolbar and website? Did you know uses of the MAR go beyond DC government and are available for public use in your applications? Take a look at what we've done with it and then make it your own.</h5>
+
+<h3 class="text-left">Goals for MAR</h3>
+<h6><li>An enterprise system capable of allowing <u>all</u> DC government agencies and the public to verify addresses.</li></h6>
+<h6><li>Enterprise web services capable of scrubbing address data and purging or correcting none-standardized address data.</li></h6>
+<h6><li>A unified addressing standard for comparing data across enterprise systems and databases.</li></h6>
+<h6><li>Tools that allow for precise point matching and information retrieval of key administrative geographies.</li></h6> 
+<br>
