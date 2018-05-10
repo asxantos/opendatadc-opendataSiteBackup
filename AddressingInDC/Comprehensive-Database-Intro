@@ -1,0 +1,12 @@
+<--This is used for the Comprehensive Database introduction row.-->
+<--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/4ed430bf8bd7471bb272b3f5e1fb3fac/data-->
+
+<div style="background: rgba(50,50,50,0.8); color: #fff; padding: 20px; height: 400px;">
+<h3 style="font-size: 25px; line-height: 32px;">Comprehensive Database</h3>
+<h6 style="font-size: 16px; margin-top: 40px;">As of December 2017 the MAR includes a total of 146,884 unique and valid addresses in DC, with 233,221 residential units. It also includes related datasets for intersections, blocks and points of interest for prominent locations. The data was assembled from years of research of more than 20 address databases, like the US Postal Service, and it continues to be updated daily.  Find current numbers by clicking below.</h6>
+<br>
+<br>
+<a href=http://opendata.dc.gov/datasets?q=mardistrict
+class="btn btn-default open-btn">View Address Data</a>
+</p>
+</div>
