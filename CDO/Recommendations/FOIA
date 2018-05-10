@@ -1,0 +1,9 @@
+<!--Row for the Legislation to Clarify FOIA-Exempt Critical Infrastructure Information recommendation.-->
+
+<div style="background: rgba(1,44,59,0.4); box-shadow:1px 1px 10px black; color: #fff; padding: 30px;">
+<h4>Legislation to Clarify FOIA-Exempt Critical Infrastructure Information</h4>
+<br>
+<p>During the course of the EDI, it became clear that multiple agencies have enterprise datasets that they believe contain “critical infrastructure information” and should not be publicly released. The District’s exemptions to FOIA, D.C. Official Code §2-534, does not define “critical infrastructure.” It does exempt “Any critical infrastructure information or plans that contain critical infrastructure information for the critical infrastructures of companies that are regulated by the Public Service Commission of the District of Columbia.” Other DC agencies that clearly have critical infrastructure information, including DGS, DDOT, OCTO, and OUC, are not covered by the exemption. It is therefore recommended that D.C. Official Code §2-534 be amended to clearly define and exempt critical infrastructure information.</p>
+<br>
+<p class="text-center"><span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span></p>
+</div>
