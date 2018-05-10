@@ -1,4 +1,40 @@
 <!--The elements below are individual text or image widgets that show charts/summaries. Images come from the published EDI pdf report. Organize these to best fit.-->
 
-<!--Char Title: How many agencies participated-->
-<a href="http://dcgis.maps.arcgis.com/sharing/rest/content/items/3c3baafa0a9f454d9460ae13b4bb2b7a/data">link</a>
+<!--Element One-->
+<!--Chart Title: How many agencies participated-->
+<!--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/3c3baafa0a9f454d9460ae13b4bb2b7a/data-->
+
+<!--Element Two-->
+<div style="background: rgba(1,44,59,0.7); box-shadow:1px 1px 10px black; color: #fff; padding: 20px; height: 275px;">
+<h4 style="font-size: 25px; line-height: 32px;">Leading Participants</h4>
+<h6>Number of datasets in descending order.</h6>
+<h6 style="font-size: 16px; margin-top: 40px;">
+<li>250 - Office of the Chief Technology Officer</li>
+<li>168 - District of Columbia Public Schools</li>
+<li>143 - District Department of Transportation</li>
+<li>109 - Department of Health</li>
+</h6>
+<br>
+<br>
+</div>
+
+<!--Element Three-->
+<div style="background: rgba(1,44,59,0.5); box-shadow:1px 1px 10px black; color: #fff; padding: 20px; height: 275px;">
+<h4 style="font-size: 25px; line-height: 32px;">Classifications Summary</h4>
+<h6>Approximations in descending order.</h6>
+<h6 style="font-size: 16px; margin-top: 40px;">
+<li>43% Open</li>
+<li>31% Confidential</li>
+<li>12% For District Government Use</li>
+<li>&nbsp; 8% Public Not Proactively Released</li>
+<li>&nbsp; 6% Restricted</li>
+</h6>
+<br>
+<br>
+</div>
+
+<!--Element Four-->
+<!--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/6d3117980b694c489f23789bec37aae0/data-->
+
+<!--Element Five-->
+<!--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/978b6b7329bd46cbbb9c98e3c710dcab/data-->
