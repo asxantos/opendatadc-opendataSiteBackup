@@ -1,0 +1,21 @@
+<!--This is a highlighted dataset card introducing Land Boundary changes data. There should also be links to all years in bullet points to the right.-->
+
+<br>
+<div class="col-xs-12">
+<div class="calcite-web">
+<div class="card-base card-wide">
+  <div class="card-wide-image-wrap">
+    <img alt="Land Boundary Changes" class="card-wide-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/aefe9f4c88cb498487af5f458fe5b1ce/data">
+    <div class="card-image-caption">
+      Derived from Owner Polgons
+    </div>
+  </div>
+  <div class="card-content">
+    <h4><a href="http://opendata.dc.gov/datasets?q=lbdnychange&sort=name">Land Boundary Changes</a></h4>
+    <p>This layer is derived from the <a href="http://opendata.dc.gov/datasets/common-ownership-lots">Common Ownership Lots</a> and represents property transactions as they’ve occurred since the implementation of the Vector Property Mapping program in September 2006. A property transaction entails new geometry (split/combination of Lot(s) or property type conversion (from Air Rights, Record, or Tax Lots to Condo lots). The layer contains locations and attributes of archived features (inactive lots – dead lots) and corresponds with OTR's Public Extract files (ITSPE). The data was created as part of the DC Geographic Information System (DC GIS) for the DC Office of the Chief Technology Officer (OCTO) and participating DC government agencies (Office of the Surveyor (OS) & Real Property Tax Administration (RPTA)). The creation of this layer is automated. It occurs weekly for the current calendar year and geometry updated when a transaction occurs.
+<span class="glyphicon glyphicon-option-horizontal"></span>    
+<h6>View <a href="http://opendata.dc.gov/datasets/land-boundary-changes-2018">View 2018 changes. </a>Keep track of yearly change with the recorded date, <i>RECORDATION_DT</i>.</h6>
+  </div>
+</div>
+</div>
+</div>
