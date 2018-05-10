@@ -1,0 +1,16 @@
+<!--This is the Relate Data with MAR row.-->
+<!--Image:http://dcgis.maps.arcgis.com/sharing/rest/content/items/4ed430bf8bd7471bb272b3f5e1fb3fac/data-->
+
+<div style="background: rgba(50,50,50,0.8); color: #fff; padding: 20px; height: 450px;">
+<h3 style="font-size: 30px; line-height: 32px;">Relate Data with MAR</h3>
+<h6 style="font-size: 16px; margin-top: 40px;">It's easy to relate the MAR with datasets across DC government. The MAR is stored in an Oracle enterprise relational database with over 20 unique tables and linked to the Department of Transportation's street spatial database. Look for these common unique identifiers to relate with many of the datasets offered in Open Data DC.
+<br>
+<br>
+<li><i>ADDRESS_ID</i>: unique address identifier used in many point datasets (also seen as <i>ADDRID</i>)</li>
+<li><i>UNIT_ID</i>: unique identifier for the residential units layer</li>
+<li><i>MARID</i>: unique identifier used for intersections and blocks</li>
+<li><i>SSL</i>: known as Square Suffix Lot and is a unique identifier used in property datasets</li>
+<br>
+Use the desktop geocoder to assign <i>ADDRESS_ID</i> to your data and link up to the property layers below.
+</h6>
+</div>
