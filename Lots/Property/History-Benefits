@@ -1,0 +1,17 @@
+<!--This is a row for History and Benefits. There should be two image widgets to the right of this intro. See below.-->
+
+<h3 class="text-left">History and Benefits</h3>
+<h6>Vector property mapping data is recorded and maintained with the oversight of the <a target="_blank" href="https://octo.dc.gov">Office of Chief Technology Officer (OCTO)</a>, <a target="_blank" href="https://dcra.dc.gov/surveyors">Office of the Surveyor</a>, and the <a target="_blank" href="https://otr.cfo.dc.gov/">Real Property Tax Administration (RPTA)</a>. The data you see here represents active lots as of September 1, 2006. Prior to this date, lot history was not created or captured.
+<br>
+<br>Property transactions have since been applied to keep the data current. If you're interested in lot history, these can still be found utilizing other publicly available resources such as the Office of the Surveyor’s <a target="_blank" href="https://dcraonline-rms.dcra.dc.gov/SurDocsPublic/">SurDocs</a> management system (Square cards, Plats, and miscellaneous documents), <a target="_blank" href="http://opendata.dc.gov/datasets?q=baist">Baist books</a>, and <a target="_blank" href="http://opendata.dc.gov/datasets?q=scans">property scan</a> images. 
+<br>
+<br>
+
+<!--Include these two images side by side.-->
+<!--Title: Square 5881 Near Garfield Heights Neighborhood in 2002-->
+<!--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/6c9207f92c4445cd8f6602e034064d40/data-->
+<!--Title: Square 5881 Near Garfield Heights Neighborhood in 2008-->
+<!--Image: http://dcgis.maps.arcgis.com/sharing/rest/content/items/aefe9f4c88cb498487af5f458fe5b1ce/data-->
+
+<!--Include this continued benefits as a new text widget below the above text and images.-->
+<h6>Benefits of the VPM project extend from within District government to the public and private users of the data. Innovative use of geospatial technology continues to improve business processes of the three agencies that manage land records. The semi-automated subdivision and building plat production process creates a faster turnaround time for plats and constituent access. The extensive data depicts active citywide lots with the ability to display history and change of property over time.</h6>
