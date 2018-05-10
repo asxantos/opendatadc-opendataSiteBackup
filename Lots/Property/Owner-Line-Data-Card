@@ -1,0 +1,20 @@
+<!--This is a long horizontal Owner Lot Line Dimensions data card. It should appear directly beneath the Recorded Lands and Taxation data cards.-->
+
+<div class="col-xs-12">
+<div class="calcite-web">
+<div class="card-base card-wide">
+  <div class="card-wide-image-wrap">
+    <img alt="Ownership Line Dimensions" class="card-wide-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/6c9207f92c4445cd8f6602e034064d40/data">
+    <div class="card-image-caption">
+      Containing length in feet
+    </div>
+  </div>
+  <div class="card-content">
+    <h4><a href="http://opendata.dc.gov/datasets/owner-lot-line-dimensions">Owner Lot Line Dimensions</a></h4>
+    <p>This polyline layer defines the boundary information for the lot(s) of interest as defined on the Plat that created it. This directly relates to the common ownership layer. Here you will find the recorded dimensions length in feet and bearing for a common ownership lot.</p>
+<span class="glyphicon glyphicon-option-horizontal"></span>    
+<h6>Lengths for each line measured in feet.</h6>
+  </div>
+</div>
+</div>
+</div>
