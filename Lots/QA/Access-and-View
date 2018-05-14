@@ -1,0 +1,14 @@
+<!--First FAQ.-->
+
+<br>
+ <h3 class="text-left">How can I access and view VPM data?</h3>
+These property data, along with hundreds of others, are all available for download <a href="http://opendata.dc.gov/datasets?q=vpmdata">here</a>. When viewing the results for each page users are offered the option to open a preview in <a target="_blank" href="http://www.arcgis.com">ArcGIS Online</a> - a free map viewer. Just click <i>Create Webmap</i> from the <i>About</i> section. Other popular DC government apps for viewing are,
+<br>
+<li><a target="_blank" href="http://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=31cb84a467df4fa4a1515cd2134a0eb3">District Owned, Operated and Managed Properties</a></li>
+<li><a target="_blank" href="https://pivsservices.dcra.dc.gov/PIVS/Search.aspx">DCRA Property Information Verification System (PIVS)</a></li>
+<li><a target="_blank" href="http://propertyquest.dc.gov/">Property Quest</a></li>
+<li><a target="_blank" href="http://maps.dcoz.dc.gov/zr16/">Official Zoning Map</a></li>
+<li><a target="_blank" href="http://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=3ca919beca684ea7bd7d1ced0dbbf636">DC Real Property Finder</a></li>
+
+<!--Also include this image to the right of the above text.-->
+<!--http://dcgis.maps.arcgis.com/sharing/rest/content/items/c1059e1394a743b0b2d66f843ac164fd/data-->
