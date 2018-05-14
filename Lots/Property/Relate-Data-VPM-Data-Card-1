@@ -1,0 +1,45 @@
+<!--This is the first of two data card rows. It should be placed directly beneath the Relate Data in VPM introduction.-->
+
+<ul class="cards-list">
+    <li class="col-sm-12 col-md-4">
+  <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Appropriations</h4>
+        <p>Lands set aside at the time of the original founding and platting of the city for use by the U.S. Federal Government.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/appropriations">Show Me Data</a>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+</li>
+<li class="col-sm-12 col-md-4">
+  <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Alley Frontage</h4>
+        <p>Alley widths/frontages captured to enable continuity within squares and should be coincident with the square boundary.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/alley-frontage-lines">Show Me Data</a>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+</li>
+<li class="col-sm-12 col-md-4">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Squares</h4>
+        <p>Typically a city block, these are calculated by the outer extents of the record or tax lots within a defined area.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/square-boundaries">Show Me Data</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
