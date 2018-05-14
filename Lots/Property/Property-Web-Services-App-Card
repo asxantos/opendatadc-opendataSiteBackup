@@ -1,5 +1,9 @@
 <!--These are web services operations cards that should go directly beneath the Property Web Services introduction.-->
 <!--Beneath this section include an iframe to the following web page: http://geospatial.dcgis.dc.gov/propertywebservice/SSLSearch.asmx?op=findByAddress-->
+<!--Beneath the iframe, place this glyph link to more web serivce operations: 
+<h5 class="text-center"><a href='http://geospatial.dcgis.dc.gov/propertywebservice/'><span class="glyphicon glyphicon-share" aria-hidden="true" style="color:grey"></span></a><a> </a><a href="http://geospatial.dcgis.dc.gov/propertywebservice/" target="_blank" style="color:grey">All Square Suffix Lot Search Operations</a></h5>
+<br>
+-->
 
 <ul class="cards-list">
     <li class="col-xs-12 col-sm-6 col-lg-3">
