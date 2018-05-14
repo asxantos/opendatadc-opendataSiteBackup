@@ -1,4 +1,4 @@
-<!--This is text that introduces roles and responsibilities of agencies that maintain VPM data. There should be three tables directly beneath this introduction. The tables should be three separate text boxes side-by-side.-->
+<!--This is title and subtitle text for the row that identifies agencies responsible for maintaining VPM data. There should be three tables directly beneath this. The tables should be three separate text boxes side-by-side. Also include the disclaimer text at the bottom of the tables.-->
 
 <h1 class="text-center">Maintaining Property Data in DC</h1>
 <h5 class="text-center">Shared responsibilities for the three agencies that manage land records.</h5>
@@ -81,3 +81,7 @@ Locate & Capture Missing Parcels&#42; </div>
     Record all Related Condo Lots
   </div>
 </div>
+
+
+<!--Disclaimer text beneath the tables.-->
+<h6 class="text-center">&#42;There are some activities that are truly shared across multiple agencies. Complete functional roles for each are found <a target="_blank" href="https://dcgis.maps.arcgis.com/sharing/rest/content/items/d4c26257d7f14a35acdcb4a100f5a14e/data">VPM Maintenance Requirements</a>.</h7>
