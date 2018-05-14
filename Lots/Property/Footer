@@ -1,0 +1,15 @@
+<!--In addition to the standard Open Data DC footer, this footer should appear to the right. It links to additional Property Lots in DC resources.-->
+
+<p><b>Detailed Documentation & Apps</b></p>
+<a target="_blank" href="http://dcatlas.dcgis.dc.gov/mar/" style="color:white">DC MAR Location Search</a>
+<br>
+<a target="_blank" href="https://pivsservices.dcra.dc.gov/PIVS/Search.aspx" style="color:white">Permit Information Verification System</a>
+<br>
+<a target="_blank" href="http://permitviewer.ddot.dc.gov/PermittingTools/default.htm" style="color:white">Transportation Online Permitting System</a>
+<br>
+<a target="_blank" href="https://dcgis.maps.arcgis.com/sharing/rest/content/items/5b43f3a774164f91b9b9d5973283e79a/data" style="color:white">VPM Facts and Metadata</a>
+<br>
+<a target="_blank" href="https://dcgis.maps.arcgis.com/sharing/rest/content/items/7cbbcfa7a90e4a438d6aef36efdcb52c/data" style="color:white">VPM Logical Design Summary</a>
+<br>
+<a target="_blank" href="https://dcgis.maps.arcgis.com/sharing/rest/content/items/d4c26257d7f14a35acdcb4a100f5a14e/data" style="color:white">VPM Maintenance Requiremends</a>
+<br>
