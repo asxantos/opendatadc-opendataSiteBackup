@@ -1,0 +1,16 @@
+<!--Fifth FAQ-->
+
+<h4 class="text-left">The <a href="http://opendata.dc.gov/datasets/common-ownership-lots">common ownership lots</a> layer is great! But how can I identify what lot type each of the polygons are?</h4>
+<br>
+Take a look at the LOT_TYPE attribute column of the data. This column contains a series of coded values identified below. For example, records lots are equal to 1. If you performed a filter such as <a href="http://opendata.dc.gov/datasets/common-ownership-lots/data?where=LOT_TYPE%20%3E%3D%201%20AND%20LOT_TYPE%20%3C%3D%201">LOT_TYPE=1</a> you'll find all the District's record lots.
+<br>
+<li>1 is a Record Lot</li>
+<li>2 is a Tax Lot</li>
+<li>3 is a Air Rights Lot</li>
+<li>4 is a Reservation</li>
+<li>5 is an Appropriation</li>
+<li>6 is a Parcel Lot</li>
+
+<!--Include this image to the right of the text above.-->
+<!--https://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/DCGIS-Location-Web-Services-3.png-->
+<!--Caption: What lot type is it?-->
