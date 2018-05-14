@@ -1,0 +1,10 @@
+<!--Row that highlights the latest high resolution imagery. Update URL when new imagery is published.-->
+
+<br>
+<br>
+<h3 class="text-left">Latest High Resolution Imagery</h3>
+<h5 class="text-left">Captured in Spring, 2017</h5>
+ 
+DC government is pleased to announce the completion and release of its latest <a href="https://en.wikipedia.org/wiki/Orthophoto" target="_blank">orthophotograph</a>. The project was flown in March of 2017 at an average altitude of 3,000 feet for most of the city’s 69 square miles. This flight altitude, over a series of 81 flight lines in varied directions, allowed the project to capture 3 inches of resolution.<br>
+<br>
+Uses for this imagery go well beyond DC government and is publicly shared. The data are available as both <a href="https://drive.google.com/open?id=1FO9wejPeA6G93EYEitU_niEGfouGMevy" target="_blank">JPEG2000</a> and a compressed <a href="https://drive.google.com/open?id=11XBomzLRNeNoNm1XBo1Ssvi_AfNtaQ81" target="_blank">geospatial SID file</a>. Customers who would like the full 328 <a href="https://en.wikipedia.org/wiki/GeoTIFF" target="_blank">GeoTIFF</a> files will need to make special arrangements with the Open Data team; the complete catalog is approximately 122GB of data. Soon, the complete GeoTIFF files will be available on Amazon Web Services and posted here.
