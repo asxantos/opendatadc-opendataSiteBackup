@@ -1,0 +1,15 @@
+<!--Sixth FAQ-->
+
+<h4 class="text-left">I know that SSL are a properties unique identifier. But how do I find out what type of lot my property is?</h4>
+<br>
+SSL are 12 characters in length. The first 4 characters are your Square. The middle 4 characters, if present, are your Suffix and last 4 characters are your lot. Therefore,
+<br>
+<li>If Lot is numbered 1-799 it is a Record Lot (<a target="_blank" href="http://dcgis.maps.arcgis.com/sharing/rest/content/items/d2a958d02a1c4f3fa531f3b77b97eadf/data">there are exceptions</a>)</li>
+<li>If Lot is numbered 800-1999 it is a Tax Lot</li>
+<li>If Lot number is 2000-6999 it is a Condo Lot</li>
+<li>If Lot is numbered 7000 or above it is a Air Rights Lot</li>
+<li>If it begins with <i>PAR</i> it is a Parcel</li>
+<li>If it begins with <i>RES</i> it is a Reservation</li>
+
+<br>
+<br>
