@@ -1,0 +1,30 @@
+<h3 class="text-left">Integrate Web Map Services</h3>
+ 
+DC makes all its orthophotography available as map services via <a href="https://server.arcgis.com/en/server/latest/publish-services/windows/what-is-a-map-service.htm">ArcGIS Server</a>. Use these in your web applications and desktop tools.
+<br>
+<br>
+    <div class="col-xs-12">
+        <div class="col-sm-1"></div>
+        <div class="col-xs-12 col-sm-5">
+            <ul>
+                <li><a href="https://maps2.dcgis.dc.gov/dcgis/rest/services/07Ortho/MapServer" >2007 MD State Plane</a></li>
+                <li><a href="https://maps2.dcgis.dc.gov/dcgis/rest/services/08Ortho/MapServer">2008 MD State Plane</a></li>
+                <li><a href="https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Ortho2010_WebMercator/MapServer">2010 Web Mercator</a></li>
+                <li><a href="https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Ortho2011_webMercator/MapServer">2011 Web Mercator</a></li>
+            </ul>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+            <ul>
+                <li><a href="https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Ortho2012_WebMercator/MapServer">2012 Web Mercator</a></li>
+                <li><a href="https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Ortho2013_WebMercator/MapServer">2013 Web Mercator</a></li>
+                <li><a href="https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Ortho2015_WebMercator/MapServer">2015 Web Mercator</a></li>
+                <li><a href="https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Ortho2017_WebMercator/MapServer">2017 Web Mercator</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-1"></div>
+    </div>
+    <br>
+</div>
+
+<!--Place this image to the right of the text above.-->
+<!--http://octo.dc.gov/sites/default/files/dc/sites/octo/Multiple-Hardware-Devices.jpg-->
