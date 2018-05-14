@@ -1,0 +1,32 @@
+<!--These three sections appear in one row beneath the Condo Lots in Detail introduction. They should be in three separate text boxes.-->
+
+<!--Box one-->
+<h3 class="text-left">Approved for Ground</h3>
+<h6 class="text-left">When condos are approved for <i>ground lots</i> (aka, record lots), those remain in the <a href="http://opendata.dc.gov/datasets/condo-approval-lots">condo approval layer</a>. Its attributions are also updated to reflect them. The following fields are populated once condo lots have been approved:
+<br>
+<br>
+<li>CONDO_BOOK_NUM</li>
+<li>CONDO_PAGE_NUM</li>
+<li>CONDO_REGIME_NUM</li>
+<li>CONDOLOT</li>
+</h6>
+
+<!--Box two-->
+<h3 class="text-left">Approved for Overlay</h3>
+<h6 class="text-left">When condos are approved for <i>overlay lots</i> (aka, air rights and tax lots), those now become dead lots and archived to their respective history layer. Search for these by performing a query where the value in the <i>UNDERLIES_CONDO</i> field is equal to 1.
+<br>
+<br>
+<li><a href="http://opendata.dc.gov/datasets/air-rights-lots-historical">Historic Air Rights Lots</a></li>
+<li><a href="http://opendata.dc.gov/datasets/tax-lots-historical">Historic Tax Lots</a></li>
+<li><a href="http://opendata.dc.gov/datasets/record-lots-historical">Historic Record Lots</a></li>
+</h6>
+
+<!--Box three-->
+<h3 class="text-left">Condo Relationships</h3>
+<h6>These tables are related based on the <i>REGIME</i> value and will help to quantify the number of condos residing on a lot - grouping of condos. The regime number starts with a 1, 2, or 3 depending upon where the condo is located and where they fall in the tax assessment process. All numbers after the first are consecutive. Use <i>REGIME</i> as a primary key between these tables.
+<br>
+<br>
+<li><a href="http://opendata.dc.gov/datasets/condo-relate-table">Condo Relate Table</a></li>
+<li><a href="http://opendata.dc.gov/datasets/condo-regime-relate-table">Regimes</a></li>
+<li><a href="http://opendata.dc.gov/datasets/condo-one-to-many">Condo One-To-Many</a></li>
+</h6>
