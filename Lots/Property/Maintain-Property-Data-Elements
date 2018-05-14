@@ -1,0 +1,83 @@
+<!--This is text that introduces roles and responsibilities of agencies that maintain VPM data. There should be three tables directly beneath this introduction. The tables should be three separate text boxes side-by-side.-->
+
+<h1 class="text-center">Maintaining Property Data in DC</h1>
+<h5 class="text-center">Shared responsibilities for the three agencies that manage land records.</h5>
+
+
+<!--First table-->
+<div class= "panel panel-default">
+<div class="panel-heading">
+    <h5 class="panel-title" "background-color.panel-dark-blue"><a  target="_blank" href="https://octo.dc.gov">Chief Technology Office</a></h5>
+  </div>
+  <div class="panel-footer">
+Create Common Ownership Layer&#42;
+  </div>
+  <div class="panel-footer">
+    Enterprise Geodatabase Administration
+  </div>
+  <div class="panel-footer">
+    Data Distribution in Open Data
+  </div>
+  <div class="panel-footer">
+    Develop Desktop Client Migration Tools
+  </div>
+  <div class="panel-footer">
+Develop Web Services
+  </div>
+  <div class="panel-footer">
+Reconcile Digitized Property Transactions&#42;
+</div>
+  <div class="panel-footer">
+    Support Oracle Infrastructure Policies
+  </div>
+</div>
+
+
+<!--Second table-->
+<div class= "panel panel-default">
+<div class="panel-heading">
+    <h5 class="panel-title" "background-color.panel-dark-blue"><a target="_blank" href="https://dcra.dc.gov/surveyors">Office of the Surveyor</a></h5>
+  </div>
+  <div class="panel-footer">
+Approve New or Changed Lots*
+  </div>
+  <div class="panel-footer">
+    Constituent Prints for Survey Plats
+  </div>
+  <div class="panel-footer">
+Drafts Plats for New Lot Creation
+  </div>
+  <div class="panel-footer">
+    Legal Records for Plats and Subdivisions
+  </div>
+  <div class="panel-footer">
+Plat Computations
+  </div>
+<div class="panel-footer">
+    Record all Property Plats
+  </div>
+  <div class="panel-footer">
+Transfer of Jurisdictions
+  </div>
+</div>
+
+<!--Third table-->
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h5 class="panel-title" "background-color.panel-dark-blue"><a target="_blank" href="https://otr.cfo.dc.gov/">Real Property Tax Administration</a></h5>
+  </div>
+<div class="panel-footer">
+    Citizen Intake for Ownership Questions&#42;
+  </div>
+<div class="panel-footer">
+Compare & Match All Layers by SSL    
+  </div>
+<div class="panel-footer">
+Locate & Capture Missing Parcels&#42; </div>
+<div class="panel-footer">
+    Notify MAR of Condo Changes
+  </div>
+<div class="panel-footer">
+    Record all Related Condo Lots
+  </div>
+</div>
