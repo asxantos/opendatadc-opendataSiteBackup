@@ -1,0 +1,160 @@
+<!--This row highlights all years of imagery that are available for download and as a map service that can be previewed in ArcGIS Online. There is also a row for imagery that is only available for download.-->
+
+<h3 class="text-center">Timely Views of the District</h3><br>
+<h6 class="text-center">Below are aerial images for you to preview and download. They are compressed<a
+    href="https://en.wikipedia.org/wiki/MrSID" target="_blank"> multiresolution seamless images (MrSID)</a> stored in<a
+    href="http://www.winzip.com/" target="_blank"> WinZip</a> files.</h6>
+<br>
+
+<ul class="cards-list">
+<li class="col-xl-2 col-md-4 col-sm-6 col-xs-12">
+    <div class="card center-block" style="background-color: #ededed; height:10%">
+                    <a target="_blank"
+                       href="http://dcgis.maps.arcgis.com/home/webmap/viewer.html?webmap=8eb8f806f11646e4813fc799da3079e0">
+                        <img
+                            src="http://octo.dc.gov/sites/default/files/dc/sites/octo/ArcGIS-Online-WebApp-LeadImages-Internet.gif"
+                            alt="Card Thumbnail"></a>
+                    <hr>
+                    <br>
+                    <br>
+                    <p style="color:#333">
+                        <a target="_blank"
+                           href="http://dcgis.maps.arcgis.com/home/webmap/viewer.html?webmap=8eb8f806f11646e4813fc799da3079e0">
+                            View the 2008 Aerial Image
+                        </a>
+                        <br>
+                        <br>
+                        <a target="_blank"
+                           href=https://drive.google.com/a/dc.gov/file/d/0B1Wt8FRXoFfJbktaUWtBM1o4S1k/view
+                           class="btn btn-default open-btn">
+                            Download Orthophoto
+                        </a>
+                    </p>
+                </div>
+</li>
+    <li class="col-xl-2 col-md-4 col-sm-6 col-xs-12">
+    <div class="card center-block" style="background-color: #ededed; height:10%">
+                    <a target="_blank"
+                       href="http://dcgis.maps.arcgis.com/home/webmap/viewer.html?webmap=af8d2fd196f647499cb4d2c7b570af20">
+                        <img
+                            src="http://octo.dc.gov/sites/default/files/dc/sites/octo/ArcGIS-Online-WebApp-LeadImages-Internet.gif"
+                            alt="Card Thumbnail"></a>
+                    <hr>
+                    <br>
+                    <br>
+                    <p style="color:#333">
+                        <a target="_blank"
+                           href="http://dcgis.maps.arcgis.com/home/webmap/viewer.html?webmap=af8d2fd196f647499cb4d2c7b570af20">
+                            View the 2010 Aerial Image
+                        </a>
+                        <br>
+                        <br>
+                        <a target="_blank"
+                           href="https://drive.google.com/a/dc.gov/file/d/0B1Wt8FRXoFfJdWtRdFR0ZDkwb1U/view"
+                           class="btn btn-default open-btn">
+                            Download Orthophoto
+                        </a>
+                    </p>
+                </div>
+</li>
+    <li class="col-xl-2 col-md-4 col-sm-6 col-xs-12">
+    <div class="card center-block" style="background-color: #ededed; height:10%;">
+                    <a target="_blank"
+                       href="http://dcgis.maps.arcgis.com/home/webmap/viewer.html?webmap=6a05bb72a94345ca89cd730b3ab5b333">
+                        <img
+                            src="http://octo.dc.gov/sites/default/files/dc/sites/octo/ArcGIS-Online-WebApp-LeadImages-Internet.gif"
+                            alt="Card Thumbnail"></a>
+                    <hr>
+                    <br>
+                    <br>
+                    <p style="color:#333">
+                        <a target="_blank"
+                           href="http://dcgis.maps.arcgis.com/home/webmap/viewer.html?webmap=6a05bb72a94345ca89cd730b3ab5b333">
+                            View the 2012 Aerial Image
+                        </a>
+                        <br>
+                        <br>
+                        <a target="_blank"
+                           href="https://drive.google.com/a/dc.gov/file/d/0B1Wt8FRXoFfJRFRPS0x2QnhBdjQ/view"
+                           class="btn btn-default open-btn">
+                            Download Orthophoto
+                        </a>
+                    </p>
+            </div>
+</li>
+    <li class="col-xl-2 col-md-4 col-sm-6 col-xs-12">
+    <div class="card center-block" style="background-color: #ededed; height:10%">
+                    <a target="_blank"
+                       href="http://dcgis.maps.arcgis.com/home/webmap/viewer.html?webmap=170848705ad743b7944e0961ed8d2b41">
+                        <img
+                            src="http://octo.dc.gov/sites/default/files/dc/sites/octo/ArcGIS-Online-WebApp-LeadImages-Internet.gif"
+                            alt="Card Thumbnail"></a>
+                    <hr>
+                    <br>
+                    <br>
+                    <p style="color:#333">
+                        <a target="_blank"
+                           href="http://dcgis.maps.arcgis.com/home/webmap/viewer.html?webmap=170848705ad743b7944e0961ed8d2b41">
+                            View the 2013 Aerial Image
+                        </a>
+                        <br>
+                        <br>
+                        <a target="_blank"
+                           href="https://drive.google.com/a/dc.gov/file/d/0B1Wt8FRXoFfJNXdiUzBqTXBON28/view"
+                           class="btn btn-default open-btn">
+                            Download Orthophoto
+                        </a>
+                    </p>
+                </div>
+</li>
+    <li class="col-xl-2 col-md-4 col-sm-6 col-xs-12">
+    <div class="card center-block" style="background-color: #ededed; height:10%">
+                    <a target="_blank"
+                       href="http://dcgis.maps.arcgis.com/home/webmap/viewer.html?webmap=fcd8377ebb524e8a998a09165d2210ae">
+                        <img
+                            src="http://octo.dc.gov/sites/default/files/dc/sites/octo/ArcGIS-Online-WebApp-LeadImages-Internet.gif"
+                            alt="Card Thumbnail"></a>
+                    <hr>
+                    <br>
+                    <br>
+                    <p style="color:#333">
+                        <a target="_blank"
+                           href="http://dcgis.maps.arcgis.com/home/webmap/viewer.html?webmap=fcd8377ebb524e8a998a09165d2210ae">
+                            View the 2015 Aerial Image
+                        </a>
+                        <br>
+                        <br>
+                        <a target="_blank"
+                           href="https://drive.google.com/open?id=0B4JuB6g9n_rmVk0yWVBwWlVSTmc"
+                           class="btn btn-default open-btn">
+                            Download Orthophoto
+                        </a>
+                    </p>
+                </div>
+</li>
+    <li class="col-xl-2 col-md-4 col-sm-6 col-xs-12">
+    <div class="card center-block" style="background-color: #ededed; height:10%">
+                    <a target="_blank"
+                       href="http://opendata.dc.gov/datasets?q=hm">
+                        <img
+                            src="http://octo.dc.gov/sites/default/files/dc/sites/octo/ArcGIS-Online-WebApp-LeadImages-Internet.gif"
+                            alt="Card Thumbnail"></a>
+                    <hr>
+                    <br>
+                    <br>
+                    <p style="color:#333">
+                        <a target="_blank"
+                           href="http://opendata.dc.gov/datasets?q=hm">
+                            View Historic Plans
+                        </a>
+                        <br>
+                        <br>
+                        <a target="_blank"
+                           href="http://opendata.dc.gov/datasets?q=hm"
+                           class="btn btn-default open-btn">
+                            Download History
+                        </a>
+                    </p>
+                </div>
+</li>
+</ul>
