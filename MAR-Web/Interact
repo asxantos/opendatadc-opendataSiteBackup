@@ -1,0 +1,6 @@
+<h3 class="text-left">Ways to interact with the MAR</h3>
+<br>
+Many tools exist for interfacing with web services including <a href="getpostman.com" target="_blank">Postman</a> and <a href="https://www.soapui.org/" target="_blank">SoapUI</a>. We use Postman in some of the examples below.  It's an easy to use, free, and open source application with both web app and desktop application options.
+
+<!--Place this image to the left of the text above.-->
+<!--https://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/DCGIS-Location-Services-Postman.gif-->
