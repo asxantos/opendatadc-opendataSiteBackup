@@ -1,0 +1,87 @@
+<!--This sections highlights applications for property. They also contain Twitter contacts for the agency authors.-->
+
+<h1 class="text-center">Explore the Data in Property Apps</h1>
+<h5 class="text-center">Jump into these property applications produced by District government.</h5>
+<br>
+<ul class="cards-list">
+<li class="col-xs-12 col-sm-6 col-lg-3">
+            <div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="Howard University Campus" class="card-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/9c691b74a96842c9ac9f119353286352/data">
+      <div class="card-image-caption">
+        Howard University Campus
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a target="_blank" href="http://propertyquest.dc.gov/">Property Quest</a></h4>
+      <p>Cared for by the <a target="_blank" href="https://planning.dc.gov">Office of Planning</a>, this site shows information especially for historic resources.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-primary" style="color:white" target="_blank" href="http://propertyquest.dc.gov/">Take a Look</a>
+<a class="btn btn-default" target="_blank" href="https://twitter.com/OPinDC"><img src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/e6a821fec83d4928aea4cf32f854425f/data">@OPinDC</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="Dupont Circle" class="card-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/04490fa7d1cd4560b85d6eabc75bf84d/data">
+      <div class="card-image-caption">
+        Dupont Circle Fountain
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a target="_blank" href="https://www.taxpayerservicecenter.com/RP_Search.jsp?search_type=Assessment">Tax Assessments</a></h4>
+      <p>Cared for by the <a target="_blank" href="https://otr.cfo.dc.gov/">Office of Tax and Revenue</a>, this site brings property value, assessment & sale price.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-primary" style="color:white" target="_blank" href="https://www.taxpayerservicecenter.com/RP_Search.jsp?search_type=Assessment">Take a Look</a>
+<a class="btn btn-default" target="_blank" href="https://twitter.com/DC_OTR"><img src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/e6a821fec83d4928aea4cf32f854425f/data">@DC_OTR</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="Georgetown Waterfront" class="card-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/78aa9ddb8b824e85b849ee70ca796c4b/data">
+      <div class="card-image-caption">
+        Georgetown Waterfront
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a target="_blank" href="http://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=3ca919beca684ea7bd7d1ced0dbbf636">Real Estate Property</a></h4>
+      <p>Cared for by the <a target="_blank" href="https://octo.dc.gov">Chief Technology Office</a>, find vacant, commercial, special use & other types.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-primary" href="http://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=3ca919beca684ea7bd7d1ced0dbbf636" target="_blank">Take a Look</a>
+<a class="btn btn-default" target="_blank" href="https://twitter.com/OCTODC"><img src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/e6a821fec83d4928aea4cf32f854425f/data">@OCTODC</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="Union Station" class="card-image" src="https://dcgis.maps.arcgis.com/sharing/rest/content/items/dda6a35340cb4f54baefef1c087caa33/data">
+      <div class="card-image-caption">
+        Union Station
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a target="_blank" href="https://dcraonline-rms.dcra.dc.gov/SurDocsPublic/">SurDocs</a></h4>
+      <p>Cared for by the <a target="_blank" href="https://dcra.dc.gov/surveyors">DC Survey Office</a>, maintains legal records of all land plats and subdivisions.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-primary" href="https://dcraonline-rms.dcra.dc.gov/SurDocsPublic/" target="_blank">Take a Look</a>
+<a class="btn btn-default" target="_blank" href="https://twitter.com/dcra"><img src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/e6a821fec83d4928aea4cf32f854425f/data">@DCRA</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
