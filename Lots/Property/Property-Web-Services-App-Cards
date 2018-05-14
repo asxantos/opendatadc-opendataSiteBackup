@@ -1,0 +1,52 @@
+<!--These are web services operations cards that should go directly beneath the Property Web Services introduction.-->
+
+<ul class="cards-list">
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+  <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>By Square Suffix Lot</h4>
+        <p><i>findBySquareSuffixLot</i><br>Three input parameters: square (required), suffix, and lot. Returns associated Condos, Addresses, Air Rights, Tax, Parcel, Record and Reservation lots.
+</p><a class="btn btn-default" target="_blank" href="http://geospatial.dcgis.dc.gov/propertywebservice/SSLSearch.asmx?op=findBySquareSuffixLot">Show Me How</a>
+      </div>
+    </div>
+  </div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+    <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>By Address</h4>
+        <p><i>findByAddress</i><br>One input parameter: address or intersection. Returns Air Rights, Tax, Parcel, Record, Reservation lots and Condos associated with the input address or intersection.
+</p><a class="btn btn-default" target="_blank" href="http://geospatial.dcgis.dc.gov/propertywebservice/SSLSearch.asmx?op=findByAddress">Show Me How</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>By X,Y Coordinates</h4>
+        <p><i>findByXY</i><br>Two required input parameters: x and y coordinates. Unit is meter. Returns the Address, Air Rights, Tax, Parcel, Record and Reservation lots for which the x,y is located inside.
+</p><a class="btn btn-default" target="_blank" href="http://geospatial.dcgis.dc.gov/propertywebservice/SSLSearch.asmx?op=findByXY">Show Me How</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>By Parcel Lot</h4>
+        <p><i>findByParcelLot</i><br>Two required input parameters: parcel and lot. Returns Addresses of Air Rights, Tax, Parcel, Record and Reservation lots associated with the input parcel and lot.
+</p><a class="btn btn-default" target="_blank" href="http://geospatial.dcgis.dc.gov/propertywebservice/SSLSearch.asmx?op=findByParcelLot">Show Me How</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
