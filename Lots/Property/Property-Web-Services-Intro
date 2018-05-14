@@ -1,3 +1,6 @@
+<!--This is the introduction row for Property Web Services.-->
+<!--Image banner: https://dcgis.maps.arcgis.com/sharing/rest/content/items/53cccb8be1ba4c959cd8735d2db3c12e/data-->
+
 <div style="background: rgba(50,50,50,0.8); color: #fff; padding: 20px; height: 400px;">
 <h4 style="font-size: 30px; line-height: 32px;">Property Web Services</h4>
 <h6 style="font-size: 16px; margin-top: 40px;">Web services are a series of APIs which primarily call DC government’s Vector Property Map database. These operations return a wealth of information about parcel lots in Washington, DC offered as XML based returns (.NET and SOAP) and JSON. Great news! These APIs are freely available to all users, not just DC gov. By using VPM web services, users can take advantage of DC's authoritative data sources.</h6>
