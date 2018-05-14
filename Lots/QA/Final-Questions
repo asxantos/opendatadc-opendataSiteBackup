@@ -1,0 +1,13 @@
+<!--These final short three questions should appear side-by-side at the bottom.-->
+
+<!--Final one-->
+<h4 class="text-left">What does <i>cadastral</i> mean and how is it related to VPM?</h4>
+DC's VPM data are referred to as a group of <i>cadastral</i> GIS layers. A cadstral map shows political and property boundaries as well as ownerhip of lands.
+
+<!--Final two-->
+<h4 class="text-left">Where can I read greater detail on this project and the terms?</h4>
+The complete project background documentation is available for viewing at <a target="_blank" href="http://dcgis.maps.arcgis.com/sharing/rest/content/items/5b43f3a774164f91b9b9d5973283e79a/data">VPM Facts and Metadata</a>. The document is considered an archive last updated in 2008. Yes, it is still applicable to today.
+
+<!--Final three-->
+<h4 class="text-left">How are addresses and a piece of property related?</h4>
+It is a many-to-many relationship where one lot can have multiple addresses on it. Think of downtown buildings with corner stores. Likewise, one structure with a single address could potentially cross two lots. 
