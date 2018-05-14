@@ -1,0 +1,14 @@
+<!--This row contains the Relate Data in VPM introduction.-->
+<!--Banner image: https://dcgis.maps.arcgis.com/sharing/rest/content/items/265c92d2b9b847d1810743750fa968ed/data-->
+
+<div style="background: rgba(50,50,50,0.8); color: #fff; padding: 20px; height: 380px;">
+<h4 style="font-size: 25px; line-height: 32px;">Related Data in VPM</h4>
+<h6 style="font-size: 16px; margin-top: 40px;">Property data is stored in an Oracle enterprise database with several inter-related datasets and maintenance activities - some occurring automatically while others manually. Use these key identifiers to relate across other layers in Open Data DC. View the timestamps for transactions as they occurred.</h6>
+<br>
+<br>
+<li><i>ADDRESS_ID</i>: unique address identifier used in many point datasets (also seen as <i>ADDRID</i>).</li>
+<li><i>SSL</i>: known as Square Suffix Lot and is a unique identifier used in property datasets.</li>
+<li><i>CREATION_DT</i>: shows the timestamp for when the record was created and posted to the database.</li>
+<li><i>RECORDATION_DT</i>: date when a feature class was legally recorded.</li>
+<li><i>KILL_DT</i>: shows the timestamp for when the lot was killed or retired.</li>
+</div>
