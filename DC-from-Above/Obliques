@@ -1,0 +1,24 @@
+<div class="col-sm-6 col-xs-12">
+    <h3 class="text-left">Neighborhood Snapshots at 45°</h3>
+    <br>
+    <p>The <a href="https://oblique.sanborn.com/dcocto_new/" target="_blank">Oblique Ariel Viewer</a>
+        displays 45 degree images for any location around the neighborhood. There are two catalogs available for you
+        - Fall of 2014 and Spring of 2015. An array of five digital cameras capture beautiful DC oblique (angled) and
+        nadir (straight-down) views - enabling users to visualize, measure and analyze all sides of a structure or
+        ground feature.
+        <a href="https://oblique.sanborn.com/dcocto_new/Help.aspx" target="_blank">Lean how to use</a>.<br><br>
+        We are most heavily using this in areas of first responses/emergency management, urban planning, and property
+        assessment. How will you use this catalog?<br><br>
+        <a target="_blank" href="https://oblique.sanborn.com/dcocto_new/" class="btn btn-default open-btn">Fly at 45° Imagery</a>
+</div>
+
+<div class="col-sm-6 col-xs-12">
+<br><br><br>
+<a href="https://oblique.sanborn.com/dcocto_new/?ll=38.921638,-77.028145&zoom=19">
+<img class="img-responsive"
+     align="middle"
+     src="https://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/DC-from-Above-Oblique2.png"
+     alt="Cardozo Education Campus"></a>
+<br>
+<p>Cardozo Education Campus Viewed from the South - Beautiful!</p>
+</div>
