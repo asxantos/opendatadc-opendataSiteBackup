@@ -1,0 +1,17 @@
+<h3 class="text-left">You've Got Questions</h3>
+ <br>
+ <h4 class="text-left">How often does DC government capture Orthophotography and LiDAR?</h4>
+<br>
+We try to collect Orthophotography and update planimetric data every other year. We are currently committed to capturing LiDAR every other year, for the next 5 years, which will bring us to 2018 as the next planned project. As events in government progress we will do our best to keep our users informed. Follow us  <a href="https://twitter.com/opendatadc" target="_blank">@OpenDataDC on Twitter</a>.
+<br>
+<br>
+<h4 class="text-left">What geographic projection are DC's aerial photos in?</h4>
+<br>
+Most aerial photos are projected in Web Mercator, such as those highlighted on this page. However, the same images are also projected in <a href="http://geospatial.dcgis.dc.gov/templates/dcgallery/index.html?appid=1a753944d2cf44db9bf1713eec9666cb">Maryland State Plane NAD83</a>. While DC's preferred projection is Maryland State Plane NAD83, we offer Web Mercator because it is widely used in the industry. 
+<br>
+<br>
+<h4 class="text-left">May I have the original GeoTIFF files as opposed to the compressed file?</h4>
+<br>
+Yes of course! These files are quite large and can be several gigabytes of data. You will need to provide an external hard drive. Please reach out to DC GIS at <a href="mailto:dcgis@dc.gov?subject=GeoTIFF Request">dcgis@dc.gov</a> so that we can work out the details. Note that the 2007 and 2011 images are only available as map services because they are licensed.
+<br>
+<br>
