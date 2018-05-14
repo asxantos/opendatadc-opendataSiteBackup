@@ -1,0 +1,43 @@
+<!--This is a row that highlights imagery that is only available for download. It should be placed beneath the first Timely Views row.-->
+
+<h3 class="text-center">Available as a Download</h3>
+<br>
+<ul class="cards-list" align="middle">
+    <!--<center>-->
+        <li class="col-xs-12 col-sm-6 col-md-3" align="middle">
+            <p style="color:#333">
+                <a target="_blank"
+                   href="https://drive.google.com/a/dc.gov/file/d/0B1Wt8FRXoFfJa0o4UXBRdlpKTVE/view"
+                   class="btn btn-default open-btn">
+                    Download 1995
+                </a>
+            </p>
+        </li>
+        <li class="col-xs-12 col-sm-6 col-md-3">
+            <p style="color:#333">
+                <a target="_blank"
+                   href="https://drive.google.com/a/dc.gov/file/d/0B1Wt8FRXoFfJcWcwRTE5UUV5ejA/view"
+                   class="btn btn-default open-btn">
+                    Download 1999
+                </a>
+            </p>
+        </li>
+        <li class="col-xs-12 col-sm-6 col-md-3">
+            <p style="color:#333">
+                <a target="_blank"
+                   href="https://drive.google.com/a/dc.gov/file/d/0B1Wt8FRXoFfJZnBENExDTWNHb1U/view"
+                   class="btn btn-default open-btn">
+                    Download 2002
+                </a>
+            </p>
+        </li>
+        <li class="col-xs-12 col-sm-6 col-md-3">
+            <p style="color:#333">
+                <a target="_blank"
+                   href="https://drive.google.com/a/dc.gov/file/d/0B1Wt8FRXoFfJM19pSzhDb3gzRXc/view"
+                   class="btn btn-default open-btn">
+                    Download 2005
+                </a>
+            </p>
+        </li>
+</ul>
