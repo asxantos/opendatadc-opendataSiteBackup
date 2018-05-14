@@ -1,0 +1,8 @@
+<!--Fourth FAQ-->
+
+<h3 class="text-left">Is VPM data perfect?</h3>
+<br>
+Dare to dream. We think we do a pretty good job of capturing cadastral data in DC and we acknowledge that there are weaknesses. The data is not 100% real-time. There is a lag between the time it takes for a boundary change to be approved by DCRA or OTR, and how it makes its way into VPM. Also, <a href="http://opendata.dc.gov/datasets/square-boundaries">square data</a> is not tied to survey points.  Each square is a free floating entity and thus is a "best-fit" to ground level. There are no control points (x,y) for squares to tie them to real world coordinates.
+<br>
+<br>
+If you think your square and/or lot's placement can be "better fit" to its surrounding physical features such as buildings, please send and email to <a href="mailto:open.data@dc.gov?subject=Vector%20Property%20Data">open.data@dc.gov</a>.
