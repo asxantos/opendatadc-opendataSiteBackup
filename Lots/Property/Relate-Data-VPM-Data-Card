@@ -1,0 +1,43 @@
+<!-- This is the second of two data cards.-->
+
+<ul class="cards-list">
+<li class="col-sm-12 col-md-4">
+    <div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Highway Plan Lines</h4>
+        <p>Captured from the city’s 1901-1905 master plans for all proposed roads. If a line crosses a property, then it cannot become a Record Lot.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/highway-plan-lines">Show Me Data</a>
+</div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-sm-12 col-md-4">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Public Easements</h4>
+        <p>Often placed after an alley closing for traffic or access and are not to be confused with utility or private easements.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/public-easement-lines">Show Me Data</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<li class="col-sm-12 col-md-4">
+<div class="calcite-web">
+    <div class="card-base card-bar-blue-darl">
+      <div class="card-content">
+        <h4>Building Restrictions</h4>
+        <p>Lines beyond which property owners or others have no legal rights to extend a building or any part thereof without approval.</p>
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="http://opendata.dc.gov/datasets/building-restriction-lines">Show Me Data</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+</ul>
