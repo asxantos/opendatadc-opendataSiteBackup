@@ -1,0 +1,33 @@
+<div>
+    <h3 class="text-left">The Center of Attention</h3>
+    <p>With each aerial flight project, we create several core operational datasets referred to as planimetric data.
+        These are things like building footprints, streets, sidewalks, recreation areas, bridges, curbs, hydrography
+        and on and on and on.
+        <br>
+        We make it all freely accessible on <a href="http://opendata.dc.gov">Open Data DC</a> as owners of this data and
+        imagery. It is one of the DC GIS program’s largest bi-annual projects and certainly seems like the center of
+        attention.<br><br></p>
+    <a target="_blank" href=http://opendata.dc.gov/datasets?q=planimetric class="btn btn-default open-btn">View all
+        Planimetric Data</a>
+</div>
+<br><br>
+<div class="col-lg-6 col-md-12">
+    <br><img
+    src="https://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/DC-from-Above-Planimetric.png"
+    class="img-responsive" align="middle"></div>
+<div class="col-lg-6 col-md-12"><br>
+    <h3 class="text-left">How We Use the Data</h3><br>
+
+    This operational data is used across government agencies to extend and further improve upon their work. These
+    support projects like,<br><br>
+    <li>Transportation Planning with<a href="http://opendata.dc.gov/datasets/street-centerlines"> Street and Road</a>
+        networks
+    </li>
+    <li><a href="https://www.dcwater.com/impervious-area-charge">Raising Revenue</a> as a result of<a
+        href="http://opendata.dc.gov/datasets?q=impervious%20surface%202015"> Impervious Surfaces</a></li>
+    <li><a
+        href="http://dcgis.maps.arcgis.com/apps/SimpleMapViewer/index.html?appid=9565681ce5c14eba8275949f5e30d747&webmap=40e1d45c20c8437091f34af1d47c6418">Urban
+        Landscape Planning</a> with<a href="http://opendata.dc.gov/datasets/existing-land-use"> Existing</a> and<a
+        href="http://opendata.dc.gov/datasets/future-land-use"> Future</a> Land Use
+    </li>
+</div>
