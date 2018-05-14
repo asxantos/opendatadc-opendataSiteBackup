@@ -1,0 +1,32 @@
+<!--This includes introduction text for DC from Above. It also includes the Brush Up on History.-->
+
+<div><h3 class="text-left">DC from Above</h3>
+    <p>Since its inception in 2000, the District of Columbia GIS program has collected <a
+            href="https://en.wikipedia.org/wiki/Orthophoto" target="_blank">Orthophotography </a>and now <a
+            href="https://en.wikipedia.org/wiki/Lidar" target="_blank">LiDAR </a>data on a regular basis. These aerial images have a
+        variety of uses including web based visualizations and to create derivative data such as buildings, roads and
+        elevation models. They are viewed in many District web applications and made available as downloadable files.
+        They can also be accessed as web services to integrate into your own content.<br>
+</p>
+</div><br>
+<div class="col-lg-6 col-md-12">
+    <br><img
+        src="https://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/DC-from-Above-1999.png"
+        class="img-responsive" align="middle" alt="Nats Stadium and Yards Park Site in 1991">
+</div>
+
+<div class="col-lg-6 col-md-12">
+    <h3 class="text-left">Brush up on History</h3>
+    <p>
+        In the mid-1990's, before DC GIS, the <a href="https://www.ncpc.gov/" target="_blank">National Capital Planning Commission
+        (NCPC)</a> and DC government departments teamed up to obtain aerial imagery for survey work. The resulting<a
+            href="https://drive.google.com/file/d/0B1Wt8FRXoFfJa0o4UXBRdlpKTVE/view" target="_blank">1995</a> and <a
+            href="https://drive.google.com/file/d/0B1Wt8FRXoFfJcWcwRTE5UUV5ejA/view" target="_blank">1999</a> images
+        were
+        used to support government operations in planning, property assessment and public works.<br>
+        The 1995 and 1999 aerial projects compiled the imagery at 1 foot resolution. For its time this was considered
+        great
+        detail. However in comparison, the city's two most recent flights captured images at 3 inch resolution. This
+        means
+        that for every pixel, we are providing you 3 inches of ground cover.</p>
+</div>
