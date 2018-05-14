@@ -1,0 +1,3 @@
+<h3 class="text-left">Using Open Data DC's MAR Web Service</h3>
+<br>
+<p>Welcome to our DC Master Address Repository (MAR)  guide. The MAR is a SOAP web service with multiple geocoding and address verification operations.  This page includes information and examples for using the MAR to look up information about locations within DC through a code based querying interfaces. This way of interacting with the MAR is most commonly used by those who intend to write scripts that call the system for information as part of a automated process. If you are simply looking for a way to check information on a few specific locations try our MAR  tool <a href="http://dcatlas.dcgis.dc.gov/mar/" target="_blank">here!</a>
