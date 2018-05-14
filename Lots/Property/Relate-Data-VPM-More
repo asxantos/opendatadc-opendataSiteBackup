@@ -1,0 +1,35 @@
+<!--These are two sections that should appear beneath the Relate Data in VPM data cards. They are links to more VPM and property data.-->
+
+<!--First section-->
+<h5 class="text-center"><a href='http://opendata.dc.gov/datasets?q=vpmdata'><span class="glyphicon glyphicon-share" aria-hidden="true" style="color:grey"></span></a><a> </a><a href="http://opendata.dc.gov/datasets?q=vpmdata" target="_blank" style="color:grey">More Vector Property Map Data</a></h5>
+
+<!--Second section-->
+<div class="col-xs-12">
+    <div class="col-sm-3"></div>
+    <div class="col-xs-12 col-sm-3">
+        <ul>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=economic" style="color:black">Economic Development</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=education"
+                   style="color:black">Education</a>
+            </li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=environment"
+                   style="color:black">Environment</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=structure" style="color:black">Facility
+                and
+                Structure</a></li>
+</ul>
+
+    </div>
+    <div class="col-xs-12 col-sm-3">
+        <ul>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=planning" style="color:black">Planning,
+                Landuse & Zoning</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=property" style="color:black">Property
+                & Land</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=recreation"
+                   style="color:black">Recreation</a></li>
+            <li><a target="_self" href="http://opendata.dc.gov/datasets?q=transportation"
+                   style="color:black">Transportation</a></li>
+        </ul>
+    </div>
+</div>
