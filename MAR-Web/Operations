@@ -1,0 +1,187 @@
+<!--Lists available operations for MAR web services: findLocation, getDCAddresses, verifyDCAddressThrouString and getDCStreetNames. It includes required variables and direct url.-->
+
+<h3>Operations</h3>
+<br>
+<strong>findLocation</strong>
+<p>
+    Use: A catch all location query including DC addresses, intersections, blocks, AID, and place names.
+    <br><br>
+    Variables:
+    <b>str</b> - <i>query string</i>; <b>f</b> - <i>json</i> or <i>xml</i>
+    <br><br>
+    Url:
+    <a style="pointer-events:none; cursor:default;" href="">https://citizenatlas.dc.gov/newwebservices/locationverifier.asmx?op=findLocation2</a>
+    <br><br>
+    Body:
+<pre class="body-block click-to-expand-wrapper is-snippet-wrapper  language-xml"><code
+        class="body-block is-highlighted language-xml"><span class="token prolog">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span><span
+        class="token tag"><span class="token punctuation">&lt;</span><span class="token namespace">soap12:</span>Envelope <span
+        class="token attr-name"><span class="token namespace">xmlns:</span>xsi</span><span
+        class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span><a
+        style="pointer-events:none; cursor:default;" href="">https://www.w3.org/2001/XMLSchema-instance</a><span
+        class="token punctuation">"</span></span> <span class="token attr-name"><span
+        class="token namespace">xmlns:</span>xsd</span><span class="token attr-value"><span
+        class="token punctuation">=</span><span class="token punctuation">"</span><a
+        style="pointer-events:none; cursor:default;" href="">https://www.w3.org/2001/XMLSchema</a><span
+        class="token punctuation">"</span></span> <span class="token attr-name"><span
+        class="token namespace">xmlns:</span>soap12</span><span class="token attr-value"><span
+        class="token punctuation">=</span><span class="token punctuation">"</span><a
+        style="pointer-events:none; cursor:default;" href="">https://www.w3.org/2003/05/soap-envelope</a><span
+        class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token punctuation">&lt;</span><span
+          class="token namespace">soap12:</span>Body<span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token punctuation">&lt;</span>findLocation <span
+            class="token attr-name">xmlns</span><span class="token attr-value"><span
+            class="token punctuation">=</span><span class="token punctuation">"</span><a
+            style="pointer-events:none; cursor:default;" href="">https://tempuri.org/newWebServices/LocationVerifier</a><span
+            class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+      <span class="token tag"><span class="token punctuation">&lt;</span>str<span class="token punctuation">&gt;</span></span>200 I St<span
+            class="token tag"><span class="token punctuation">&lt;/</span>str<span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token punctuation">&lt;/</span>findLocation<span
+            class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token punctuation">&lt;/</span><span
+          class="token namespace">soap12:</span>Body<span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token punctuation">&lt;/</span><span class="token namespace">soap12:</span>Envelope<span
+        class="token punctuation">&gt;</span></span></code></pre>
+</p>
+<br><br>
+
+<strong>getDCAddresses</strong>
+<p>
+    Use: Takes a string (minimum of four characters) and returns all DC addresses that begins with that string.
+    <br><br>
+    Variables:
+    <b>initialetter</b> - <i>string of letters that address starts with</i>i>; <b>f</b> - <i>json</i>or <i>xml</i>
+    <br><br>
+    Url:
+    <a style="pointer-events:none; cursor:default;" href="">https://citizenatlas.dc.gov/newwebservices/locationverifier.asmx?op=getDCAddresses2</a>
+    <br><br>
+    Body:
+<pre class="body-block click-to-expand-wrapper is-snippet-wrapper  language-xml"><code
+        class="body-block is-highlighted language-xml"><span class="token prolog">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
+<span class="token tag"><span class="token punctuation">&lt;</span><span
+        class="token namespace">soap:</span>Envelope <span class="token attr-name"><span
+        class="token namespace">xmlns:</span>xsi</span><span class="token attr-value"><span
+        class="token punctuation">=</span><span class="token punctuation">"</span><a style="pointer-events:none; cursor:default;" href="">https://www.w3.org/2001/XMLSchema-instance</a><span
+        class="token punctuation">"</span></span> <span class="token attr-name"><span
+        class="token namespace">xmlns:</span>xsd</span><span class="token attr-value"><span
+        class="token punctuation">=</span><span class="token punctuation">"</span><a
+        style="pointer-events:none; cursor:default;" href="">https://www.w3.org/2001/XMLSchema</a><span
+        class="token punctuation">"</span></span> <span class="token attr-name"><span
+        class="token namespace">xmlns:</span>soap</span><span class="token attr-value"><span
+        class="token punctuation">=</span><span class="token punctuation">"</span><a
+        style="pointer-events:none; cursor:default;" href="">https://schemas.xmlsoap.org/soap/envelope/</a><span
+        class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token punctuation">&lt;</span><span class="token namespace">soap:</span>Body<span
+          class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token punctuation">&lt;</span>getDCAddresses2 <span class="token attr-name">xmlns</span><span
+            class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span><a
+            style="pointer-events:none; cursor:default;" href="">https://tempuri.org/newWebServices/LocationVerifier</a><span
+            class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+      <span class="token tag"><span class="token punctuation">&lt;</span>initialetters<span class="token punctuation">&gt;</span></span>200 I ST<span
+            class="token tag"><span class="token punctuation">&lt;/</span>initialetters<span class="token punctuation">&gt;</span></span>
+      <span class="token tag"><span class="token punctuation">&lt;</span>f<span
+              class="token punctuation">&gt;</span></span>json<span class="token tag"><span class="token punctuation">&lt;/</span>f<span
+            class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token punctuation">&lt;/</span>getDCAddresses2<span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token punctuation">&lt;/</span><span
+          class="token namespace">soap:</span>Body<span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token punctuation">&lt;/</span><span
+        class="token namespace">soap:</span>Envelope<span class="token punctuation">&gt;</span></span></code></pre>
+</p>
+
+<br><br>
+<strong>verifyDCAddressThrouString</strong>
+<p>
+    Use: Uses concatenated DC address and returns information matching the given string.
+    <br><br>
+    Variables:
+    <b>Address</b> - <i>concatenated DC address string</i>; <b>f</b> - <i>json</i> or <i>xml</i>
+    <br><br>
+    Url:
+    <a style="pointer-events:none; cursor:default;" href="">https://citizenatlas.dc.gov/newwebservices/locationverifier.asmx?op=verifyDCAddressThrouString2</a>
+    <br><br>
+    Body:
+<pre class="body-block click-to-expand-wrapper is-snippet-wrapper  language-xml"><code
+        class="body-block is-highlighted language-xml"><span class="token prolog">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
+<span class="token tag"><span class="token punctuation">&lt;</span><span
+        class="token namespace">soap:</span>Envelope <span class="token attr-name"><span
+        class="token namespace">xmlns:</span>xsi</span><span class="token attr-value"><span
+        class="token punctuation">=</span><span class="token punctuation">"</span><a
+        style="pointer-events:none; cursor:default;" href=""><a style="pointer-events:none; cursor:default;" href="">https://www.w3.org/2001/XMLSchema-instance</a><span
+        class="token punctuation">"</span></span> <span class="token attr-name"><span
+        class="token namespace">xmlns:</span>xsd</span><span class="token attr-value"><span
+        class="token punctuation">=</span><span class="token punctuation">"</span><a
+        style="pointer-events:none; cursor:default;" href="">https://www.w3.org/2001/XMLSchema</a><span
+        class="token punctuation">"</span></span> <span class="token attr-name"><span
+        class="token namespace">xmlns:</span>soap</span><span class="token attr-value"><span
+        class="token punctuation">=</span><span class="token punctuation">"</span>https://schemas.xmlsoap.org/soap/envelope/<span
+        class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token punctuation">&lt;</span><span class="token namespace">soap:</span>Body<span
+          class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token punctuation">&lt;</span>verifyDCAddressThrouString2 <span
+            class="token attr-name">xmlns</span><span class="token attr-value"><span
+            class="token punctuation">=</span><span class="token punctuation">"</span><a
+            style="pointer-events:none; cursor:default;" href="">https://tempuri.org/newWebServices/LocationVerifier</a><span
+            class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+      <span class="token tag"><span class="token punctuation">&lt;</span>Address<span
+              class="token punctuation">&gt;</span></span>200 I ST<span class="token tag"><span
+            class="token punctuation">&lt;/</span>Address<span class="token punctuation">&gt;</span></span>
+      <span class="token tag"><span class="token punctuation">&lt;</span>f<span
+              class="token punctuation">&gt;</span></span>json<span class="token tag"><span class="token punctuation">&lt;/</span>f<span
+            class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token punctuation">&lt;/</span>verifyDCAddressThrouString2<span
+            class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token punctuation">&lt;/</span><span
+          class="token namespace">soap:</span>Body<span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token punctuation">&lt;/</span><span
+        class="token namespace">soap:</span>Envelope<span class="token punctuation">&gt;</span></span></code></pre>
+</p>
+
+<br><br>
+<strong>getDCStreetNames</strong>
+<o>
+    Use: Allows for calling of all streets within a quadrant. Further refinement can be done by giving the starting
+    characters of the street's name.
+    <br><br>
+    Variables:
+    <b>quad</b> - <i>NE</i>, <i>NW</i>, <i>SE</i>, or <i>SW</i>; <b>initialetters</b> - <i>string of character the result should begin with</i>;
+    <b>f</b> - <i>json</i> or <i>xml</i>
+    <br><br>
+    Url:
+    <a style="pointer-events:none; cursor:default;" href="">https://citizenatlas.dc.gov/newwebservices/locationverifier.asmx?op=getDCStreetNames2</a>
+    <br><br>
+    Body:
+<pre class="body-block click-to-expand-wrapper is-snippet-wrapper  language-xml"><code
+        class="body-block is-highlighted language-xml"><span class="token prolog">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
+<span class="token tag"><span class="token punctuation">&lt;</span><span
+        class="token namespace">soap:</span>Envelope <span class="token attr-name"><span
+        class="token namespace">xmlns:</span>xsi</span><span class="token attr-value"><span
+        class="token punctuation">=</span><span class="token punctuation">"</span><a
+        style="pointer-events:none; cursor:default;" href=""><a style="pointer-events:none; cursor:default;" href="">https://www.w3.org/2001/XMLSchema-instance</a><span
+        class="token punctuation">"</span></span> <span class="token attr-name"><span
+        class="token namespace">xmlns:</span>xsd</span><span class="token attr-value"><span
+        class="token punctuation">=</span><span class="token punctuation">"</span><a
+        style="pointer-events:none; cursor:default;" href="">https://www.w3.org/2001/XMLSchema</a><span
+        class="token punctuation">"</span></span> <span class="token attr-name"><span
+        class="token namespace">xmlns:</span>soap</span><span class="token attr-value"><span
+        class="token punctuation">=</span><span class="token punctuation">"</span>https://schemas.xmlsoap.org/soap/envelope/<span
+        class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token punctuation">&lt;</span><span class="token namespace">soap:</span>Body<span
+          class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token punctuation">&lt;</span>getDCStreetNames <span class="token attr-name">xmlns</span><span
+            class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span><a
+            style="pointer-events:none; cursor:default;" href="">https://tempuri.org/newWebServices/LocationVerifier</a><span
+            class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>
+      <span class="token tag"><span class="token punctuation">&lt;</span>quad<span class="token punctuation">&gt;</span></span>SE<span
+            class="token tag"><span class="token punctuation">&lt;/</span>quad<span
+            class="token punctuation">&gt;</span></span>
+      <span class="token tag"><span class="token punctuation">&lt;</span>initialetters<span class="token punctuation">&gt;</span></span>P<span
+            class="token tag"><span class="token punctuation">&lt;/</span>initialetters<span class="token punctuation">&gt;</span></span>
+    <span class="token tag"><span class="token punctuation">&lt;/</span>getDCStreetNames<span class="token punctuation">&gt;</span></span>
+  <span class="token tag"><span class="token punctuation">&lt;/</span><span
+          class="token namespace">soap:</span>Body<span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token punctuation">&lt;/</span><span
+        class="token namespace">soap:</span>Envelope<span class="token punctuation">&gt;</span></span></code></pre>
+</p>
+
