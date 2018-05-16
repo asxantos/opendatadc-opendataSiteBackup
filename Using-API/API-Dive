@@ -1,0 +1,17 @@
+<br>
+<br>
+<br>
+<h3 class="text-left">Dive into the APIs</h3>
+ 
+The District of Columbia provides APIs and web services that empower you to create applications for fun, education, reporting, or business. The API Explorer tab at the top is where you can begin setting parameters and trying it out.
+<br>
+<br>
+Take a look at the Swimming Pools API Explorer,
+<br>
+<br>
+<a target="_blank"
+ href="http://opendata.dc.gov/datasets/swimming-pools/geoservice?geometry=-77.611%2C38.812%2C-76.424%2C38.999"
+class="btn btn-default open-btn">API Explorer for Swimming Pools</a>
+
+
+<!--Use this image to the left: http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Using-District-API-Explore-API.png-->
