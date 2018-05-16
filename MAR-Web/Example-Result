@@ -1,0 +1,7 @@
+<!--This shows the resulting information from the example query. Place the image directly beneath to show the example-->
+
+<h3>Example query result</h3>
+<p>Here's an example using the findLocation operation including the inputs and output text using 200 I St as our location string.</p>
+
+<!--Image: https://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/location-api-example-findLocation.png--?
+<!--Caption: Output of example findLocation query-->
