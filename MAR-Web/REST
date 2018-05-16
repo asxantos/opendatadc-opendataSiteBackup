@@ -1,0 +1,20 @@
+<!--Includes information on how to access MAR web services using RESTful style services.-->
+
+<h3 class="text-left">RESTful Web Service</h3>
+<p>The MAR Web Service can also be accessed using a RESTful style Web Service. Below is an example:
+    <br>
+    <ol>
+    <li>Start with the URL below:</li>
+<a style="pointer-events:none; cursor:default;" href="">http://citizenatlas.dc.gov/newwebservices/locationverifier.asmx/</a>
+    <br><br>
+    <li>Add the chosen service name followed by a question mark to the url, we will use the findLocation operation. The name of the operation can be found in the example url for each operation after "op="</li>
+    <a style="pointer-events:none; cursor:default;" href="">http://citizenatlas.dc.gov/newwebservices/locationverifier.asmx/findLocation2?</a>
+    <br><br>
+    <li>add variables to the operation url putting a '&' between each. For findLocation this are str and f for which we will use 200 I St and json respectively.</li>
+    <a href="http://citizenatlas.dc.gov/newwebservices/locationverifier.asmx/findLocation2?str=200%20I%20St&f=json" target="_blank">http://citizenatlas.dc.gov/newwebservices/locationverifier.asmx/findLocation2?str=200 I St&f=json</a>
+    <br>
+    <i>*Please note that spaces between 200 and I and between I and St are represented with %20*</i>
+    <br><br>
+    </ol>
+
+</p>
