@@ -1,0 +1,12 @@
+<h3 class="text-left">You've Got Questions</h3>
+ <br>
+ <h4 class="text-left">Is there a bulk API available?</h4>
+<br>
+All data is available for bulk download as CSV. Unfortunately, there is no easy way to chunk the CSV files for easier download. To get the direct link to the CSV, just copy the URL for the GeoJSON and replace .geojson with .csv.
+<br>
+<br>
+<h4 class="text-left">What is the difference between GeoJSON and Esri JSON?</h4>
+<br>
+Both are valid JSON representations of earth-based geometries and the information attached to them. GeoJSON is more widely used in open source projects, while Esri JSON is mostly used in the widely distributed Esri products. However, it’s important to note that more and more Esri products are outputting GeoJSON, and accepting GeoJSON inputs. <a href="http://geojson.org/geojson-spec.html ">GeoJSON specifications</a> is actually not bad reading for a document of this sort. But if you want something more entertaining, try Tom MacWright’s <a href="http://www.macwright.org/2015/03/23/geojson-second-bite.html">"More than you ever wanted to know about geojson."</a> Here is the Esri JSON documentation: http://resources.arcgis.com/en/help/rest/apiref/geometry.html. Esri provides some open source tools to work between the two formats: https://github.com/Esri/geojson-utils. While you’re there check out their other open source projects: https://github.com/Esri
+<br>
+<br>
