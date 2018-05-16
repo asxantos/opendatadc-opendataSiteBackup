@@ -1,0 +1,15 @@
+<br>
+<br>
+<h3 class="text-left">Map Services</h3>
+ 
+You don't need specialized GIS software to consume DC's map services. They are easily accessed within web browsers or custom applications. The data layers you see individually in <a href="http://opendata.dc.gov">Open Data DC</a>, are also published as a REST endpoint. We do our best to organize them into categories.
+<br>
+<br>
+For example, the <a href="http://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/5">Capital Bike Share</a> REST endpoint appears in the Transportation category. It is one among several! The Bike Availability map seen here is overlaying the layer onto <a href="http://www.arcgis.com">ArcGIS.com</a>.
+<br>
+<br>
+<a href=http://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer
+class="btn btn-default open-btn">View all Transportation</a>
+
+<!--use the following web map to embed in iframe on the left.-->
+<!--http://dcgis.maps.arcgis.com/apps/View/index.html?appid=357e853e713e4db2bf84283a6e494e3f-->
