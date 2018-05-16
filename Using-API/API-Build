@@ -1,0 +1,53 @@
+<div class="col-xs-12">
+    <div class="col-md-12 col-lg-6">
+        <!--left side column-->
+        <div class="col-xs-12">
+            <h3>Get it Together and Build!</h3>
+            <p>Use these APIs in any framework or tool that accepts GeoJSON, GeoService, CSV, OGC WMS, or Esri JSON. 
+                <br><br>
+                Use DC's open source starter kit to get a leg up or just some ideas. Explore <a target=_blank href="http://open.dc.gov/opendatadc-starterkit/">live demonstrations</a> that show you how to
+                use our APIs and data with ArcGIS, Mapbox, D3, and Leaflet.
+<br>
+<br>
+See
+                something
+                missing in the above technologies? Comment at <a
+                    href="https://github.com/DCgov/opendatadc-starterkit/issues"target="_blank">Welcome
+                    to Issues</a>, or share in our <a
+                    href="https://github.com/DCgov/opendatadc-starterkit/blob/master/CONTRIBUTING.md"target="_blank">Ways to
+                    Contribute</a>.
+            </p>
+        </div>
+        <div class="col-xs-12">
+            <!--button and logo-->
+            <div class="col-xs-12 col-sm-6">
+                <!--buttons-->
+                <br>
+                <a target="_blank"
+                   href=https://github.com/DCgov/opendatadc-starterkit
+                   class="btn btn-default open-btn">
+                    <img
+                        src="https://github.com/DCgov/opendatadc-starterkit/blob/master/help/images/logo-github.png?raw=true">
+                    &nbsp;&nbsp; DC Open Source Kit</a>
+                <br>
+                <br>
+                <a target="_blank"
+                   href=https://github.com/DCgov
+                   class="btn btn-default open-btn"><img
+                    src="https://github.com/DCgov/opendatadc-starterkit/blob/master/help/images/logo-github.png?raw=true">
+                    &nbsp;&nbsp; DC.gov on Github</a>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12 col-lg-6">
+        <!--here is the icons for the right side-->
+        <img
+            src="https://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Using-District-API-Platforms.png"
+            alt="Use in any Platform"
+            height="100%"
+            width="100%">
+    </div>
+</div>
+
+
