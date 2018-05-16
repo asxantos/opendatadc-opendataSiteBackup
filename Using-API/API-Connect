@@ -1,0 +1,17 @@
+<br>
+<br>
+<h3 class="text-left">Connect with Web Map and Data Services</h3>
+ 
+There are a variety of web map and data services for you to integrate into your own applications. All map services are available as <a href="http://maps2.dcgis.dc.gov/dcgis/sdk/rest/index.html#//02ss00000028000000"target="_blank">ArcGIS REST</a>endpoints. The <a href="http://geospatial.dcgis.dc.gov/propertywebservice/"target="_blank">property</a> and <a href="http://citizenatlas.dc.gov/newwebservices/locationverifier.asmx"target="_blank">location</a> web data services include popular features such as address verification, identifying property boundaries and more details relating to lands in DC.
+<br>
+<br>
+<a target="_blank"
+ href=http://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA
+class="btn btn-default open-btn">Category Map Services</a>
+<br>
+<br>
+<a target="_blank"
+ href=http://maps2.dcgis.dc.gov/dcgis/rest/services/Utilities
+class="btn btn-default open-btn">Utilities Web Services</a>
+
+<!--Use this image to the left: http://octo.dc.gov/sites/default/files/dc/sites/octo/DCGIS-0Connected-Maps-Services-2.png-->
