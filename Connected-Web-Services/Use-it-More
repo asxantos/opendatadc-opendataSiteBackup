@@ -1,0 +1,13 @@
+<br>
+<br>
+<br>
+<h3 class="text-left">Use it More and More</h3>
+ 
+Build it once and use it multiple ways. All the REST endpoints can be used across platforms. The <a href="http://open.dc.gov/opendatadc-starterkit/dcopendata_bikeshare_mapbox.html">Nearest Bike Share</a> map seen here is an example of the same <a href="http://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Transportation_WebMercator/MapServer/5">Capital Bike Share</a> layer served in <a href="https://www.mapbox.com/mapbox-gl-js/api/">Mapbox</a> and <a href="https://jquery.com/">JQuery</a>.
+<br>
+<br>
+<a href=http://open.dc.gov/opendatadc-starterkit/
+class="btn btn-default open-btn">View more Examples</a>
+
+<!--Use the follow web app to embed in iframe to the right.-->
+<!--http://open.dc.gov/opendatadc-starterkit/dcopendata_bikeshare_mapbox.html-->
