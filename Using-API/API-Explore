@@ -1,0 +1,15 @@
+<br>
+<br>
+<h3 class="text-left">Explore the Data Layers</h3>
+ 
+Each data layer in the catalog comes with a brief description that helps give context. You will also see a publication date and boxes identifying attribute fields within the data. The Data tab at the top will show a preview of the table.
+<br>
+<br>
+Let's take a look at Swimming Pools as an example,
+<br>
+<br>
+<a target="_blank"
+ href="http://opendata.dc.gov/datasets/swimming-pools/data"
+class="btn btn-default open-btn">Swimming Pool Attributes</a>
+
+<!--Use this image to the right: http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Using-District-API-Explore-Data-2.png-->
