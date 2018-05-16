@@ -1,0 +1,15 @@
+<br>
+<br>
+<h3 class="text-left">Spin up API URLs</h3>
+ 
+In the details page of every data layer are three drop down menus. One of which contains a selection of pre-written URLs for the full dataset. Copy and paste your chosen API into your application, or send it to your developer team.
+<br>
+<br>
+Go back to the Swimming Pool details and click the API dropdown,
+<br>
+<br>
+<a target="_blank"
+ href="http://opendata.dc.gov/datasets/swimming-pools?geometry=-77.611%2C38.812%2C-77.011%2C38.999"
+class="btn btn-default open-btn">Spin up Swimming Pools URLs</a>
+
+<!--Use this image to the right: http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Using-District-API-Get-URL.png-->
