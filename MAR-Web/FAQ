@@ -1,0 +1,17 @@
+<!--Common questions regarding MAR web services.-->
+
+<h3>You've Got Questions</h3>
+<br>
+<h4>Can I look up a single address?</h4>
+<br>
+The <a href="http://dcatlas.dcgis.dc.gov/mar/" target="_blank">MAR web tool</a> is an interface to allow individuals to query the MAR without the need for coding knowledge. It's also great if you only are trying to look up Wards, Advisory Neighborhood Commissions, police districts and other geographies.
+<br>
+<br>
+<h4> Are there more details on the MAR Web Services that I can read and learn?</h4>
+<br>
+Yes, definitely. Download and read the <a href="https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/DCGIS-Using-MAR-Web-Services.pdf" target="_blank">MAR Web Services Documentation</a> in PDF.
+<br>
+<br>
+<h4 class="text-left">Why are downloads and online services unresponsive?</h4>
+<br>
+Open Data DC uses Esri provided cloud systems to serve its data downloads and API services. Use the <a href="http://opendata.dc.gov/pages/services-dashboard">health dashboard</a>. to determine whether any outages or intermittent issues are the result of Esri's ArcGIS Online. If issues are specific to DC government systems, the team will keep you posted via our online subscription services. <a href="https://public.govdelivery.com/accounts/DCWASH/subscriber/new?topic_id=DCWASH_198">Click to subscribe</a>.
