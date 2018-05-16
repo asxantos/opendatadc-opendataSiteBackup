@@ -1,0 +1,27 @@
+<h3 class="text-left">You've Got Questions</h3>
+ <br>
+<h4 class="text-left">What geographic projection are DC's map services in?</h4>
+<br>
+Most map services are projected in Web Mercator, such as those highlighted on this page. However, there are a few that are projected in Maryland State Plane NAD83. While DC's preferred projection is Maryland State Plane NAD83, we offer Web Mercator because it is widely used in the industry. 
+<br>
+<br>
+<h4 class="text-left">Is there a place where I can look up a single address quickly?</h4>
+<br>
+Use the <a href="http://dcatlas.dcgis.dc.gov/mar/">DC Master Address Repository</a> to perform single address, intersection, block or place name search. Here you can find details such as the Ward, Census Tract and Police District a location falls in. There is more! In most searches you will also have the option to view a preview map.
+<br>
+<br>
+<h4 class="text-left">Why are downloads and online services unresponsive?</h4>
+<br>
+Open Data DC uses Esri provided cloud systems to serve its data downloads and API services. Use the <a href="http://opendata.dc.gov/pages/services-dashboard">health dashboard</a>. to determine whether any outages or intermittent issues are the result of Esri's ArcGIS Online. If issues are specific to DC government systems, the team will keep you posted via our online subscription services. <a href="https://public.govdelivery.com/accounts/DCWASH/subscriber/new?topic_id=DCWASH_198">Click to subscribe</a>.
+<br>
+<br>
+<h4 class="text-left">What if the location services do not find an address I know exists?</h4>
+<br>
+We have an online form where you may submit said location for review; however, it needs to meet probable criteria. Start by searching in the <a href="http://dcatlas.dcgis.dc.gov/mar/">Master Address Repository</a>. For example, if you search for <i> 296 I Street SE</i> you’ll find this address does not exist AND an online form link will appear. This address is possible since there is a <i>200 block of I Street SE</i>. A search for <i>10096 I Street SE</i> is not possible; there is no <i>10000 block of I Street SE</i> and therefore no form will appear.
+<br>
+<br>
+<h4 class="text-left">What can I do to use DC web services responsibly?</h4>
+<br>
+Great question! We appreciate your consideration of this and ask that you read <a href="https://octo.dc.gov/node/1166991">Responsible Use of our Web Services</a> for some tips.
+<br>
+<br>
