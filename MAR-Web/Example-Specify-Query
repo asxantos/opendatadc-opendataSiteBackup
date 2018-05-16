@@ -1,0 +1,10 @@
+<!--Use this as an example of how to specify a query. The image should be placed to the left.-->
+
+<h3>Specifying query</h3>
+<ul>
+<li>Paste your chosen operation's URL (found below) into the URL field.</li>
+<li>Also paste the body text for the chosen operation into the body field.</li>
+<li>Input any variables in the body needed for your query.</li>
+</ul>
+
+<--Image: https://octo.dc.gov/sites/default/files/dc/sites/octo/location-api-changes-to-run.PNG-->
