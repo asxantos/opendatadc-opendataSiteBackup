@@ -1,0 +1,14 @@
+<h3 class="text-left">Find it for Non-Developers</h3>
+ 
+The <a href="http://dcatlas.dcgis.dc.gov/mar/">DC Location Search</a> makes locating addresses as easy as possible by employing spell check, lists of street names and street type aliases. Use it to perform a handful of searches. <a href="http://dcatlas.dcgis.dc.gov/mar/">Here</a> you can find details such as the Ward, Census Tract and Police District a location falls in.
+<br>
+<br>
+If you have hundreds or thousands of records in a spreadsheet you'd like mapped, use the <a href="https://octo.dc.gov/node/1161947">Master Address Repository (MAR) Geocoder</a>. It is a desktop application that employs DC’s location data services (see above) to assign a location in the form of geographic coordinates. Find help from the <a href="https://docs.google.com/document/d/1y3rY2xeVC3hy8ITJVPoqn7q99orQJ1OGP6006GQ5PnY/pub">user guide</a> and common <a href="https://octo.dc.gov/node/1161966">troubleshooting steps</a>.
+<br>
+<br>
+<a href=http://dcatlas.dcgis.dc.gov/mar/
+class="btn btn-default open-btn">DC Location Search</a>
+<br>
+<br>
+<a href=https://octo.dc.gov/node/1161947
+class="btn btn-default open-btn">Download the Geocoder</a>
